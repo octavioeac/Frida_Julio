@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+         <EVOLUCION2>
+            <cen:MSJ_XML>
+               <cen:MOVIMIENTO>?</cen:MOVIMIENTO>
+               <cen:ACCION>?</cen:ACCION>
+               <cen:REFERENCIA>?</cen:REFERENCIA>
+               <cen:FOLIO_SER>?</cen:FOLIO_SER>
+               <cen:CTL_NA>?</cen:CTL_NA>
+               <cen:CTL_LA>?</cen:CTL_LA>
+               <cen:CTL_NB>?</cen:CTL_NB>
+               <cen:CTL_LB>?</cen:CTL_LB>
+               <cen:FH_ENVIO>?</cen:FH_ENVIO>
+               <cen:COM_N>?</cen:COM_N>
+            </cen:MSJ_XML>
+         </EVOLUCION2>

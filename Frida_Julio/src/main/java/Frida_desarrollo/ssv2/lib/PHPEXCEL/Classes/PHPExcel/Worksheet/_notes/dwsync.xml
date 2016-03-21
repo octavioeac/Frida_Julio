@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseDrawing.php" server="10.105.59.73" local="131022063299502583" remote="130382136000000000" Dst="1" />
+<file name="AutoFilter.php" server="10.105.59.73" local="131022063299552586" remote="130382136000000000" Dst="1" />
+<file name="CellIterator.php" server="10.105.59.73" local="131022063299592588" remote="130382136000000000" Dst="1" />
+<file name="ColumnDimension.php" server="10.105.59.73" local="131022063299962609" remote="130382136000000000" Dst="1" />
+<file name="Drawing.php" server="10.105.59.73" local="131022063299972610" remote="130382136000000000" Dst="1" />
+<file name="HeaderFooter.php" server="10.105.59.73" local="131022063300462638" remote="130382136000000000" Dst="1" />
+<file name="HeaderFooterDrawing.php" server="10.105.59.73" local="131022063300472638" remote="130382136000000000" Dst="1" />
+<file name="MemoryDrawing.php" server="10.105.59.73" local="131022063300522641" remote="130382136000000000" Dst="1" />
+<file name="PageMargins.php" server="10.105.59.73" local="131022063300872661" remote="130382136000000000" Dst="1" />
+<file name="PageSetup.php" server="10.105.59.73" local="131022063301092674" remote="130382136000000000" Dst="1" />
+<file name="Protection.php" server="10.105.59.73" local="131022063301112675" remote="130382136000000000" Dst="1" />
+<file name="Row.php" server="10.105.59.73" local="131022063301232682" remote="130382136000000000" Dst="1" />
+<file name="RowIterator.php" server="10.105.59.73" local="131022063301552700" remote="130382136000000000" Dst="1" />
+<file name="RowDimension.php" server="10.105.59.73" local="131022063301632705" remote="130382136000000000" Dst="1" />
+<file name="SheetView.php" server="10.105.59.73" local="131022063302162735" remote="130382136000000000" Dst="1" />
+</dwsync>

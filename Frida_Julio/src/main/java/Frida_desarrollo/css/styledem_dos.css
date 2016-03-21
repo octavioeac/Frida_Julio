@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+/*--------------------------------------------- ESTILOS DE LAS TABLAS --------------------------------------------------------------------------------------*/
+#tbGeneral
+	{ width:900px;  background-color:#CAE4FF;  border:solid;  table-layout:900px;  border:#999999 solid 3px;  color:#000066;  text-align:left;  font-family:Verdana, Arial, Helvetica, sans-serif;  font-size:11px;  color:#000066; }
+
+#tbGeneral2 { width:900px;  background-color:#eee;  border:solid;  table-layout:900px;  border:#999999 solid 3px;  color:#000066;  text-align:left;  font-family:Verdana, Arial, Helvetica, sans-serif;  font-size:11px;  color:#000066; } 
+	
+input[type='text']
+	{ font-family: Verdana, Arial, Helvetica, sans-serif;  font-size: 11px;  color: #000066; }
+
+select
+	{ font-family: Verdana, Arial, Helvetica, sans-serif;  font-size: 11px;  color: #000066; }
+
+#tblDemarcadoresInfra { width:900px;  background-color:#E8E8E8;  border:solid;  table-layout:900px;  border:#999999 solid;  color:#000066;  text-align: left;  font-family: Verdana, Arial, Helvetica, sans-serif;  font-size: 11px;  color: #000066; }
+
+
+.tx0,.txD,.advaO,.advaD { width:900px;  background-color:#CAE4FF;  border:solid;  table-layout:900px;  border:#999999 solid;  color:#000066;  text-align: left;  font-family: Verdana, Arial, Helvetica, sans-serif;  font-size: 11px;  color: #000066; }
+
+	
+#transporte { width:900px;  background-color:#E1E1E1;  border:solid;  table-layout:900px;  border:#999999 solid;  color:#000066;  text-align: left;  font-family: Verdana, Arial, Helvetica, sans-serif;  font-size: 11px;  color: #000066; }
+
+
+/*--------------------------------------------- ESTILOS DE LOS TITULOS --------------------------------------------------------------------------------------*/
+.tituloRojo1
+{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #F00; text-align:left;}
+.tituloAzul
+{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color:#009; text-align:left;}
+.tituloVerde
+{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color:#006600; text-align:left;}
+#tbPto
+{width:1700px; background-color:#CAE4FF; border:solid; table-layout:1700px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+.wdmO,.wdmD
+{width:900px; background-color:#CCD9FF; border:solid; table-layout:900px;border:#999999 solid; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+/*--------------------------------------------- ESTILOS GENERALES --------------------------------------------------------------------------------------*/
+.distribuidor, .interconexiones{background-color:#E8E8E8;}
+.interconexiones td{width:25%; }
+.Estilo41 {font-size: 9px; }
+.Estilo41_infra {font-size: 8px; }
+.Estilo42 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000066; }
+.Estilo57 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #990000; }
+.Estilo58 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #009; }
+.Estilo59 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #F00;}
+.Estilo66 span, .titulo span{color: #FF0000}
+.Estilo66 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000066; }
+.Estilo68 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #FF0000; }
+.Estilo70 {	font-size: 12px; color: #000066; font-family: Verdana, Arial, Helvetica, sans-serif; background-color: #FFFFCC;font-weight: bold;}
+/*--------------------------------------------- ESTILO DE LOS MENUS --------------------------------------------------------------------------------------*/
+.Contenedor
+	{
+		border: 2px solid #777; 
+		border-top: solid; 
+		overflow: hidden; 
+		clear: both; 
+		float: left; 
+		width: 900px; 
+		background: #eee;
+		-webkit-border-bottom-right-radius: 8px;
+		-webkit-border-bottom-left-radius: 8px;
+		-moz-border-radius-bottomright: 8px;
+		-moz-border-radius-bottomleft: 8px;
+		border-bottom-right-radius: 8px;
+		border-bottom-left-radius: 8px;
+	}
+.Contenedor
+	{
+		border: 2px solid #777;
+		border-top: solid; 
+		overflow: hidden;
+		clear: both; 
+		float: left; 
+		width: 1050px; 
+		background: #eee;
+		-webkit-border-bottom-right-radius: 8px;
+		-webkit-border-bottom-left-radius: 8px;
+		-moz-border-radius-bottomright: 8px;
+		-moz-border-radius-bottomleft: 8px;
+		border-bottom-right-radius: 8px;
+		border-bottom-left-radius: 8px;
+	}
+.Contenido {padding: 15px; font-size: 12px; margin-left:100px;}
+.Contenido {padding: 15px; font-size: 12px; margin-left:10px;}
+.Contenido2 {padding: 15px; font-size: 12px;}
+
+
+/*--------------------------------------------- ESTILO DE LA IMAGEN SERVICIO L2  -------------------------------------------------------------------------*/
+#gallery {background-color: #444;padding: 10px;width: 890px;}
+#gallery ul { list-style: none; }
+#gallery ul li { display: inline; }
+#gallery ul img {border: 5px solid #3e3e3e;border-width: 5px 5px 20px;}
+#gallery ul a:hover img {border: 5px solid #fff;border-width: 5px 5px 20px;color: #fff;}
+#gallery ul a:hover { color: #fff; }

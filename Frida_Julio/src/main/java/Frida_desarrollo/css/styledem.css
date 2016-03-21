@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+/*--------------------------------------------- ESTILOS DE LAS TABLAS --------------------------------------------------------------------------------------*/
+
+/*#tbGeneral,#tbResp,.wdmO,.wdmD{float:left;}*/
+#tbGeneral,#tbResp{width:900px; background-color:#CAE4FF; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+.tbGeneral
+{width:900px; background-color:#CAE4FF; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+
+.tbColectora
+{width:900px; background-color:#CCD9FF; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+
+#tbGeneral3
+{width:1100px; background-color:#CAE4FF; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+#tbGeneral2
+{width:900px; background-color:#eee; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+.tbGeneral2
+{width:800px; background-color:#eee; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+
+#tbGeneral44
+{width:1056px; background-color:#eee; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+#tbGeneral4
+{width:1095px; background-color:#eee; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+#tbGeneral5
+{width:1000px; background-color:#CAE4FF; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+#tbGeneral6
+{width:800px; background-color:#EBEBEB; border:solid; table-layout:800px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+#tbGeneral7
+{width:1000px; background-color:#CAE4FF; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+.tbGeneral8
+{width:600px; background-color:#CAE4FF; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; color: #000066;}
+#tbGenera9
+{width:600px; background-color:#CAE4FF; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+.tbGeneralBl
+{width:900px; table-layout:900px;border:solid 3px; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;}
+.tbGeneralB2
+{width:900px; table-layout:900px;border:none 3px; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;}
+.tbGeneralBtn
+{width:900px; table-layout:900px;border:solid 3px; border-top:none; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;}
+
+.tbCobre
+{width:900px; background-color:#CAE4FF; border:solid; table-layout:900px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;margin-left:-160px}
+#tbPto
+{width:2000px; background-color:#CAE4FF; border:solid; table-layout:2000px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+#tbPtoFo
+{width:2600px; background-color:#CAE4FF; border:solid; table-layout:2600px;border:#999999 solid 3px; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+
+.wdmO,.wdmD
+{width:900px; background-color:#CCD9FF; border:solid; table-layout:900px;border:#999999 solid; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+.wdm2,.wdmD
+{width:900px; background-color:#E1E1E1; border:solid; table-layout:900px;border:#999999 solid; color:#D0CDFE; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+
+
+input[type='text'] {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+select {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+#tblDemarcadoresInfra
+{width:900px; background-color:#E8E8E8; border:solid; table-layout:900px;border:#999999 solid; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+.tx0,.txD,.advaO,.advaD
+{width:900px; background-color:#CAE4FF; border:solid; table-layout:900px;border:#999999 solid; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+#transporte
+{width:900px; background-color:#E1E1E1; border:solid; table-layout:900px;border:#999999 solid; color:#000066; text-align: left;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000066;}
+
+.fondoGris{ background-color:#EEE}
+.fondoGris2{ background-color:#EEE;font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color:#009;}
+.fondoCombo{background-color:#FFF; font-weight:700}
+
+
+/*--------------------------------------------- ESTILOS DE LOS TITULOS --------------------------------------------------------------------------------------*/
+.tituloRojo1
+{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #F00; text-align:left;}
+.tituloAzul
+{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color:#009; text-align:left;}
+.tituloVerde
+{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color:#006600; text-align:left;}
+/*--------------------------------------------- ESTILOS GENERALES --------------------------------------------------------------------------------------*/
+.distribuidor, .interconexiones{background-color:#E8E8E8;}
+.interconexiones td{width:25%; }
+.Estilo41 {font-size: 9px; }
+.Estilo41_infraL2 {font-size: 8px; }
+.Estilo41_infra {font-size: 8px; }
+.Estilo41_video {font-size: 10px; }
+.Estilo42 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000066; }
+.Estilo56 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color:#009900; }
+.Estilo57 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #990000; }
+.Estilo58 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #009; }
+.Estilo59 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #F00;}
+.Estilo66 span, .titulo span{color: #FF0000}
+.Estilo66 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000066; }
+.Estilo68 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #FF0000; }
+.Estilo70 {	font-size: 12px; color: #000066; font-family: Verdana, Arial, Helvetica, sans-serif; background-color: #FFFFCC;font-weight: bold;}
+.Estilo90 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #009; }
+.EstiloBto {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #009;height:20px; width:130px;}
+/*--------------------------------------------- ESTILO DE LOS MENUS --------------------------------------------------------------------------------------*/
+.Contenedor{border: 2px solid #777; border-top: solid; overflow: hidden; clear: both; float: left; width: 900px; background: #eee;
+-webkit-border-bottom-right-radius: 8px;-webkit-border-bottom-left-radius: 8px;-moz-border-radius-bottomright: 8px;-moz-border-radius-bottomleft: 8px;
+border-bottom-right-radius: 8px;border-bottom-left-radius: 8px;}
+.Contenido {padding: 15px; font-size: 12px; margin-left:100px;}
+.Contenido2 {padding: 15px; font-size: 12px;}
+.Contenido {padding: 15px; font-size: 12px; margin-left:10px;}
+
+.Contenedor{border: 2px solid #777; border-top: solid; overflow: hidden; clear: both; float: left; width: 1050px; background: #eee;
+-webkit-border-bottom-right-radius: 8px;
+-webkit-border-bottom-left-radius: 8px;
+-moz-border-radius-bottomright: 8px;
+-moz-border-radius-bottomleft: 8px;
+border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+}
+
+/*--------------------------------------------- ESTILO DE LA IMAGEN SERVICIO L2  -------------------------------------------------------------------------*/
+#gallery {background-color: #444;padding: 10px;width: 890px;}
+#gallery ul { list-style: none; }
+#gallery ul li { display: inline; }
+#gallery ul img {border: 5px solid #3e3e3e;border-width: 5px 5px 20px;}
+#gallery ul a:hover img {border: 5px solid #fff;border-width: 5px 5px 20px;color: #fff;}
+#gallery ul a:hover { color: #fff; }
+
+/*--------------------------------------------- VENTANA EMERGENTE EQUIPOS -------------------------------------------------------------------------*/
+#dialog table{border:1px #ccc solid;border-collapse:collapse;font-size:12px}
+#dialog table tr th{font-weight:bold;border:1px #ccc solid;background:#7fb8f3;padding:4px}
+#dialog table tr td{border:1px #ccc solid;padding:4px;text-align:left}
+#dialog table tr:nth-child(even) td{background:#ebf2fa}
+#dialog table tr:nth-child(odd) td{background:#fff}
+#dialog table tr:hover td{background:#a3cbfa}        
+/*--------------------------------------------- ICONO DE ESPERA -------------------------------------------------------------------------*/
+.div_Content{ width:400px; height:500px; position:fixed; top:100%; left:25%; margin-left:-350px; margin-top:-350px; background:url() center no-repeat transparent; }
+
+    .validation-passed { border-color: blue; } /* campo valido */
+    .validation-failed { border-color: red; } /* campo invalido */
+    .validation-advice { color: #C00; font-size: 10px; } /* mensaje de error */

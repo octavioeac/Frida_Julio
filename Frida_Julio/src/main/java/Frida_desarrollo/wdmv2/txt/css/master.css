@@ -1,0 +1,242 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:Arial;
+}
+.header{
+    background-color:#4c5a77;
+    background-image:-webkit-linear-gradient(top,#5e6985,#3e4d6c);
+    background-image:-moz-linear-gradient(top,#5e6985,#3e4d6c);
+    background-image:-ms-linear-gradient(top,#5e6985,#3e4d6c);
+    background-image:-o-linear-gradient(top,#5e6985,#3e4d6c);
+    background-image:linear-gradient(top,#5e6985,#3e4d6c);
+    filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr='#5e6985',endColorstr='#3e4d6c');
+    -webkit-box-shadow:0 9px 9px 0 rgba(50,50,50,0.3);
+    -moz-box-shadow:0 9px 9px 0 rgba(50,50,50,0.3);
+    box-shadow:0 9px 9px 0 rgba(50,50,50,0.3);
+    -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=9, Direction=180, Color='#999999')";
+    filter:progid:DXImageTransform.Microsoft.Shadow(Strength=9, Direction=180, Color='#999999');
+    border-left:1px #3d4569 solid;
+    border-bottom:1px #3d4569 solid;
+    border-right:1px #3d4569 solid;
+    height:92px;
+    width:698px;
+    margin:0 auto 30px;
+    text-align:left;
+    padding:18px 0 0;
+}
+.header h1{
+    margin:0;
+}
+.header h1 a{
+    color: #FFFFFF;
+    font-weight: 100;
+    letter-spacing: -2px;
+    text-decoration: none;
+    padding: 0 0 0 5%;
+}
+.header h2{
+    color: #E1C70E;
+    font-size: 19px;
+    font-weight: 100;
+    letter-spacing: -1px;
+    padding: 0 0 0 5%;
+    margin: 5px 0 0;
+}
+.cont{
+    width:694px;
+    background:#cae4ff;
+    border: 3px #999 solid;
+    margin:0 auto;
+    padding:10px 0;
+}
+fieldset{
+    border:none;
+
+}
+legend{
+    color:#006;
+    font-size:13px;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+label{
+    float:left;
+    display:block;
+    font-size:10pt;
+    margin-left:10px
+}
+input{
+    float:left;
+    display:block;
+    margin:-2px 20px 0 5px;
+}
+button.iz,button.dr{
+    display:block;
+}
+button.iz{
+    float:left;
+    margin:0 0 0 10px;
+}
+button.dr{
+    float:right;
+    margin:0;
+}
+fieldset#f0,fieldset#f1,fieldset#f2,fieldset#f3{
+    display:none;
+}
+/*---------------------
+    CONTENEDOR DE 900PX
+-----------------------*/
+.wcont{
+    width:900px;
+    margin:0 auto;
+}
+.wcont .cont900{
+    width:874px;
+    background:#cae4ff;
+    border: 3px #999 solid;
+    float:left;
+    padding:10px;
+    height:auto;
+    font-family:Verdana;
+}
+.down{margin-bottom:20px !important}
+.up{margin-top:20px !important}
+.cont900 fieldset{
+    border:none;
+    width:864px;
+    height:auto;
+    padding:10px 10px 0 0
+}
+.cont900 fieldset legend{
+    color:#f00;
+    font-size:11px;
+    font-weight:bold;
+}
+.cont900 fieldset .row100{
+    width:100%;
+    float:left;
+    height:25px;
+    margin:0 0 1px;
+}
+.cont900 fieldset .row100 textarea{
+    float:right;
+    display:block;
+    text-align:left;
+    margin:0;
+    width:632px;
+}
+.cont900 fieldset .row50{
+    width:50%;
+    float:left;
+    height:25px;
+    margin:0 0 1px;
+}
+.cont900 fieldset .row100 label, .cont900 fieldset .row100 input{
+    display:block;
+}
+.cont900 fieldset .row100 label{
+    float:left;
+    font-size:11px
+}
+.cont900 fieldset .row100 input{
+    float:right;
+    text-align:left;
+    width:632px;
+    margin:0;
+}
+.cont900 fieldset .row100 select, .cont900 fieldset .row50 select{float:right;}
+
+.cont900 fieldset .row50 label, .cont900 fieldset .row50 input{
+    display:block;
+}
+.cont900 fieldset .row50 label{
+    float:left;
+    font-size:11px
+}
+.cont900 fieldset .row50 input{
+    float:right;
+    text-align:left;
+    width:200px;
+    margin:0;
+}
+.cont900 fieldset .row25{
+    width:25%;
+    float:left;
+    height:25px;
+    margin:0 0 1px;
+}
+.cont900 fieldset .row25 label{
+    float:left;
+    font-size:11px
+}
+.cont900 fieldset .row25 input{
+    float:right;
+    text-align:left;
+    width:200px;
+    margin:0;
+}
+.cont900 fieldset .row25 .radio{
+    margin:-14px 0 0;
+}
+.topno{border-top:none !important}
+.gris{background:#eee !important}
+.morado{background:#ccd9ff !important}
+
+.uppercase{text-transform:uppercase}
+.b{font-weight:bold}
+.c{text-align:center}
+
+.save{width:868px;height:30px}
+.save button{float:right;margin:0 0 0 30px;padding:0 6px 0 0}
+
+.vacio{
+    border:2px #f00 solid;
+    background:#ffcccc;
+    color:#903;
+}
+/*------------
+    T A B L A 
+--------------*/
+table.rs{border:1px solid #ccc;border-collapse:collapse;font-size:12px;font-family:Arial}
+table.rs tr th{background:#7FB8F3;border:1px solid #ccc;font-weight:bold;padding:4px}
+table.rs tr td{border:1px solid #ccc;padding:4px;text-align:left;word-wrap:break-word;background:#fff}
+/*table.rs tr:nth-child(2n) td{background:#EBF2FA}
+table.rs tr:nth-child(2n+1) td{background:#fff}*/
+table.rs tr:hover td{background:#A3CBFA}
+/*-------------
+    L I S T A S
+---------------*/
+.lst{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:auto;
+}
+.lst div{
+    float:left;
+    font-size:11px;
+}
+.lst input{
+    display: block;
+    float:left;
+    margin:0;
+    width:80%;
+}
+.lst div input,.lst div select{margin:6px 0 0}
+.lst .ten{width:10%}
+.lst .nine{width:11.1%}
+.lst .eight{width:12.5%}
+.lst .seven{width:14.28%}
+.lst .six{width:16.5%}
+.lst .five{width:20%}
+.lst .four{width:25%}
+.lst .three{width:33.33%}
+.lst .two{width:50%}
+.lst .one{width:100%}
+.lst .ttl{
+    font-weight:bold;
+    color:#006;
+    margin:0 0 8px
+}

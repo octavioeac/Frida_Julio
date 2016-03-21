@@ -1,0 +1,1077 @@
+/* 
+    Document   : ssv2nu
+    Created on : 2/07/2013, 12:34:23 PM
+    Author     : HP435
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body{
+    margin:0;
+    padding:0;
+    text-align:center;
+    font-family:Arial;
+    background:#fff; 
+}
+#main{
+    width:1003px;
+    height:500px;
+    background:transparent;
+    margin:10px auto;  
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+    margin:0 0 10px;
+    font-size:9pt;
+}
+table#end{
+    margin:-11px 0 20px;
+}
+table#email{
+    margin:10px 0 20px;
+}
+#addmail{
+    background: url("../../images/add.png") no-repeat scroll left top #FFFFFF;
+    cursor: pointer;
+    float: right;
+    padding: 0 8px 0 18px;
+}
+.enombre,.ecorreo{
+    border: 1px solid #000000;
+    height: 17px;
+    margin: -11px 0 0 -5px;
+    position: absolute;
+    width: 250px;
+}
+table tr th{
+    background:#72A6F3;
+    color:#000;
+    border:1px #000 solid;
+    font-weight:bold;
+    padding:4px 0;
+}
+table tr th.sub{
+    background:#e8e8e8;
+    color:#000;
+    font-weight:bold;
+    padding:4px 0;
+    position: relative;
+    width: 200px;
+}
+table tr th.bd{border:2px #000 solid !important;font:bold 10pt Arial}
+table tr td{
+    text-align:left;
+    background:#fff;
+    border: 1px #000 solid;
+    padding: 0 0 0 4px;
+}
+table tr td.h{
+    text-align:center;
+    background:#fff;
+    border: 1px #000 solid;
+}
+table tr td.h2{
+    text-align:center;
+    background:#fff;
+    border: 1px #000 solid;
+    height:20px
+}
+table tr td.h img{
+    margin:-44px 0 0 -60px;
+    position:absolute;
+}
+table tr td.t,table tr td.tl,table tr td.t2{
+    text-align:center;
+    background:#cae4ff;
+    border: 1px #000 solid;
+    font-weight:bold;
+}
+table tr td.tl{
+    text-align:left;
+}
+table tr td.t2{
+    height:20px
+}
+img.del{
+    cursor:pointer
+}
+.input{
+    width:100%;
+    max-width: auto;
+    height:100%;
+    background:#fff;
+    border:1px #fff solid;
+    font-weight: bold;
+}
+.inputfocus{
+    width:100%;
+    max-width: auto;
+    height:100%;
+    background:#ff9;
+    border:1px #ff0 solid;
+    font-weight: bold;
+}
+.input:focus{
+    background:#ff9;
+    border:1px #ff0 solid;
+}
+textarea{
+    max-width:98%;
+    min-width:98%;
+    background:#fff;
+    border: none;
+    font-family: Arial;
+    padding:10px 1%;
+    margin:0;
+    resize: none;
+}
+textarea.f{
+    background:#ff9;
+}
+textarea:focus{
+    background:#ff9;
+}
+textarea#eg_tt_coment{
+    min-height:17px;
+    max-height:17px;
+}
+textarea#eg_es_coment, textarea#eg_tp_coment{
+    min-height:62px;
+    max-height:62px;
+}
+textarea#eg_tc_coment, textarea#eg_oc_coment{
+    min-height:103px;
+    max-height:103px;
+}
+textarea#fo_canaleta_coment,textarea#dwfo_canaleta_coment,textarea#cx_escalerilla_coment,textarea#gs_canaleta_coment,textarea#fz_escalerilla_coment,textarea#mp_canaleta_coment{
+    min-height:19px;
+    max-height:19px;
+}
+textarea#fo_tipo_canaleta_coment,textarea#dwfo_tipo_canaleta_coment,textarea#cx_tipo_escalerilla_coment,textarea#gs_tipo_canaleta_coment,textarea#fz_tipo_escalerilla_coment,textarea#mp_tipo_canaleta_coment{
+    min-height:79px;
+    max-height:79px;
+}
+textarea#fo_final_coment{
+    min-height:100px;
+    max-height:100px;
+}
+/*CONEXIONES ALTO ORDEN*/
+.conttwo{
+    width:999px;
+    height:auto;
+    background:#fff;
+    padding:0 1px 0 0;
+    float:left;
+}
+.conttwo h2{
+    width:997px;
+    margin:10px 0 0;
+    padding:2px 0 0;
+    height:20px;
+    background:#e8e8e8;
+    color:#000;
+    font:bold 10pt Arial;
+    border-top:1px #000 solid;
+    border-left:1px #000 solid;
+    border-right:1px #000 solid;
+}
+.conttwo .scsa{
+    width:319px;
+    height:200px;
+    background: #cae4ff;
+    border: 1px #000 solid;
+    float:left;
+    margin:0 6px;
+    padding:0;    
+}
+.conttwo .scsa h2{
+    width:100%;
+    margin:0;
+    padding:2px 0 0;
+    height:20px;
+    background:#006;
+    color:#fff;
+    font:bold 9pt Arial;
+}
+.conttwo .scsa img{
+    margin: 0 auto;
+    text-align:center;
+    width:250px;
+    height:178px
+}
+.conttwo .lf{
+    float:left;
+    width:654px;
+    height:auto;
+    background:#fff;
+    margin:0 0 10px 6px;
+}
+.conttwo .lf h2{
+    width:auto;
+    margin:0;
+    padding:2px 0 0;
+    height:20px;
+    background:#e8e8e8;
+    color:#000;
+    font:bold 10pt Arial;
+    border-bottom:1px #000 solid;
+}
+.conttwo .lf .l{
+    width: 319px;
+    height:auto;
+    background:#fff;
+    float:left;
+}
+.conttwo .lf .l#a1 h3,.conttwo .lf .l#a2 h3{
+    background:#e8e8e8;
+    color:#000;
+    font:bold 10pt Arial;
+    height:20px;
+    margin:15px 0 0;
+    padding:2px 0 0;
+    width:auto;
+    border-top:1px #000 solid;
+    border-left:1px #000 solid;
+    border-right:1px #000 solid;
+}
+.conttwo .lf .l#a1{
+    margin:0 6px 20px 0;
+}
+.conttwo .lf .l#a2{
+    margin:0 0 20px 10px;
+}
+.gen{
+    border:none;
+    height:17px;
+    margin:0 0 0 -4px;
+    width:87px;
+    background:#cae4ff;
+}
+table tr th.w1{
+    width:83px;
+}
+table tr td.w1{
+    width:83px;
+    text-align:center;
+    background:#cae4ff;
+    border: 1px #000 solid;
+    font-weight:bold;
+}
+table.int{
+    border: 1px solid #000000;
+    margin: -11px 0 0 -5px;
+    position: absolute;
+    width: 334px;
+}
+table.int tr td{
+    border: 1px solid #000000;
+    text-align: center;
+}
+table.int tr td.t{
+    background:#CAE4FF;
+    border: 1px solid #000000;
+    font-weight: bold;
+    text-align: center;
+    height:21px;
+}
+.other,.other2,.other3,.other4,.other5,.other6,.other7,.other8,.other9,.other10{position:absolute;float:right;height:17px;margin:-3px 0 0;background:#fff;border:1px #000 solid}
+.other,.other2{margin-left:11px;width:110px}
+.other{width:148px;height:18px}
+.other2{width:110px}
+.other3{margin-left:58px;width:150px}
+.other4{margin-left:70px;width:100px}
+.other5{margin-left:89px;width:150px}
+.other6{height:19px;margin:-1px 0 0 -5px;width:161px}
+.other7{margin-left:82px;width:150px}
+.other8{height:19px;margin:-1px 0 0 -5px;width:131px}
+.other9{height:19px;margin:-11px 0 0 -5px;width:102px}
+.other10{height:19px;margin:-11px 0 0 -5px;width:105px}
+.foc2:focus,.foc2:active {
+    background:#fff;
+}
+.foc2,.foc3,.foc4,.foc5,.foc6,.foc7,.foc7_b,.cx1,.cx2,.cx22,.cx4,.cx6,.sg1,.sg2,.sg3,.sg4,.sg5,.sg6,.fz0,.fz1,.fz2,.fz3,.fz4,.fz5,.fz6,.fz7,.fz8,.mp1,.mp2,.mp3,.mp4,.kz1,.kz2,.kz3,.kz4,
+.intmp1,.intmp2,.intmp3,.intmp4{
+    position:absolute;background:#cae4ff;height:18px;border:1px #000 solid;margin:-11px 0 0}
+
+.kz1{margin-left:-5px;width:113px}
+.kz2{margin-left:-5px;width:114px}
+.kz3{margin-left:-5px;width:61px}
+.kz4{margin-left:-5px;width:115px}
+
+.cx1:focus,.cx2:focus,.cx3:focus,.cx4:focus,.cx5:focus,.cx6:focus,.sg1:focus,.sg2:focus,.sg3:focus,.sg4:focus,.sg5:focus,.sg6:focus{background:#fff}
+.foc2{height:19px;width:131px;margin:-1px 0 0 -70px}
+.foc3{margin:-12px 0 0 -62px;height:19px;width:116px}
+.foc4{width:82px;margin:-12px 0 0 -45px;text-align:center;height:19px}
+.foc5{margin:-12px 0 0 -45px;width:82px;height:19px;text-align:center}
+.foc6{margin:-11px 0 0 -31px;width:54px;text-align:center;height:19px}
+.foc7,.foc7_b{margin:-12px 0 0 -5px;width:96px;text-align:center;height:19px}
+.foc7_b{margin-left:-52px}
+.cx1{margin:-1px 0 0 -45px;width:82px;text-align:center}
+.cx2{width:113px;margin-left:-60px;margin-top:-12px;text-align:center}
+.cx22{width:108px;margin-left:-5px;text-align:center}
+.fz1{margin-left:-42px;width:78px}
+.cx3{width:103%}
+.cx22{margin-left:-57px}
+.cx4{width:125px;margin-left:-66px;margin-top:-12px;}
+.cx5{width:103%}
+.cx6{width:106px;margin-left:-57px;margin-top:-12px;text-align:center}
+
+.ck1,.ck2,.ck3,.ck4,.ck5{position:absolute;margin:-6px 0 0}
+.ck1{margin-left:27px}
+.ck2{margin-left:28px}
+.ck3{margin-left:43px}
+.ck4{margin-left:45px}
+.ck5{margin-left:61px}
+
+.sg1,.sg2,.sg3,.sg4,.sg5,.sg6,.cx1,.cx2,.cx22,.cx4,.cx6{height:19px}
+#tbcx tr td,#tbdo tr td,#tbcx tr td,#tbgs tr td{height:20px}
+.sg1{margin:-1px 0 0 -47px;width:86px}
+.sg2{margin:-12px 0 0 -53px;width:98px}
+.sg3{margin:-12px 0 0 -25px;width:45px}
+.sg4{margin:-12px 0 0 -56px;width:104px}
+.sg5{margin:-12px 0 0 -52px;width:97px}
+.sg6{margin:-12px 0 0 -49px;width:89px}
+.fz2{margin:-2px 0 0 -48px;width:86px;height:20px}
+/* SIN VALIDACION.fz2{margin:-12px 0 0 -58px;width:107px;height:20px}*/
+.fz0{margin:-1px 0 0 -5px;width:317px;text-align:center;height:20px}
+.fz3{margin:-12px 0 0 -51px;width:94px;height:20px}
+.fz4{margin:-12px 0 0 -59px;width:110px;height:20px}
+.fz5{margin:-12px 0 0 -45px;width:82px;height:20px}
+.fz6{margin:-12px 0 0 -50px;width:91px;height:20px}
+.fz7{margin:-12px 0 0 -40px;width:71px;height:20px}
+.fz8{margin:-12px 0 0 -41px;width:74px;height:20px}
+.mp1,.mp3,.mp4{margin-left:-5px}
+.mp1{width:77px;margin-left:-42px}
+.mp2{width:97px;margin-left:-5px}
+.mp3{width:62px;text-transform:uppercase;margin-left:-35px;}
+.mp4{width:52px;text-align:center}
+.intmp1{height:20px;margin:-12px 0 0 -5px;width:38px;text-transform:uppercase}
+.intmp2{height:20px;margin:-12px 0 0 -5px;width:53px}
+.intmp3{height:20px;margin:-12px 0 0 -5px;width:49px;border-right:none}
+.intmp4{height:21px;margin:-12px 0 0 -5px;width:92px}
+select{
+    border:none;
+    height:20px;
+    margin:0 0 0 -4px;
+    width:100%;
+}
+.conttwo .rf{
+    width:320px;
+    height:auto;
+    float:right;
+    background:#fff;
+}
+.conttwo .rf .box{
+    width:318px;
+    height:319px;
+    background:#cae4ff;
+    border:1px #000 solid;
+    margin:0 0 20px;
+}
+.conttwo .rf .box h2{
+    background:#006;
+    color:#fff;
+    font:bold 9pt Arial;
+    height:20px;
+    margin:0;
+    padding:2px 0 0 1%;
+    width:99%;
+    text-align:left;
+}
+.conttwo .rf .box img{
+    margin:20px auto;
+    text-align:center;
+    width:300px;
+    height:270px;
+}
+.conttwo .rf .ct1{
+    width:316px;
+    height:459px;
+    border:2px #000 solid;
+}
+.conttwo .rf .ct1 img{
+    margin:20px auto;
+    text-align:center;
+    width:300px;
+    height:500px;
+}
+.conttwo .rf .ct1 .conttable{
+    margin:20px auto;
+    text-align:center;
+    width:300px;
+    height:500px;
+}
+.conttwo .rf h3{
+    text-align: right;
+    color:#000;
+    margin:5px 0 0;
+    font-size:10pt;
+}
+.comentarios{
+    width: 987px;
+    height:auto;
+    margin:20px 0 0 6px;
+    background:#fff;
+}
+.contplanos{
+    border:1px #000 solid;
+    width:997px;
+    height:auto;
+    margin:0 0 10px;
+    float:left;
+    padding:0 0 10px 0;
+}
+/*.contplanos ul{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:auto;
+    list-style:none;
+}
+.contplanos ul li{
+    width:242px;
+    height:242px;
+    background:transparent;
+    margin:4px;
+    float:left;
+}
+.contplanos ul li .box{
+    width:242px;
+    height:242px;
+    background:transparent url(../img/erase.png) top right no-repeat;
+}
+.contplanos ul li .box a{
+    border:none
+}
+.contplanos ul li .box a img{
+    width:226px;
+    height:242px;
+}
+.contplanos img{
+    /*margin:0 auto;
+    text-align:center;
+    width:226px;
+    height:242px;
+    float:left;
+}*/
+.ct{
+    width:633px;
+    height:510px;
+    margin: 0 auto;
+    background:#fff;
+    padding:10px;
+    border:1px #000 solid
+}
+.square,.letter{
+    float:left;
+    width:68px;
+    height:35px;                
+    margin:-1px 0 0 -1px;
+    background:#fff;
+
+}
+.square{
+    border:1px #000 solid;
+    margin:0 0 2px 2px;
+}
+.letter{
+    border:none;
+    text-align:right;
+    height:27px;
+    width:19px;
+    padding:8px 10px 0 0;
+    margin:1px 0 0 1px;
+}
+#nivel{
+    float:left;
+    width:20px;
+    height:269px;
+    background:none;
+    text-align:center;
+    padding:200px 0 0;
+}
+#vertical{
+    float:left;
+    width:590px;
+    height:20px;
+    background:none;
+    margin:0 0 0 32px;
+    text-align:center;
+}
+#parentesis{
+    float:left;
+    width:592px;
+    height:35px;
+    background:none;
+    margin:5px 0 0 52px;
+    text-align:center;
+}
+.inter{
+    float:left;
+    width:70px;
+    height:35px;
+    margin:0 0 2px 2px;
+    text-align:center;
+}
+/*  --  NUEVO FORMATO DE INTERCONEXIONES    --  */
+.left,.right{
+    border-top:none;
+    border-bottom:none;
+    border-right:1px #000 solid;
+    border-left:1px #000 solid;
+}
+.left{    
+    margin:0 -18px 0 -5px;
+    width:121px;
+}
+.right{
+    margin:0 -16px 0 -5px;
+    width:102px;
+}
+button.interx{
+    float:right;
+    width:155px;
+    margin:0 0 10px;
+}
+#upload_button,#upload_image{
+/*    width:120px;
+    height:35px;
+    text-align:center;
+    background:#000;
+    color:#CCCCCC;
+    font-weight:bold;
+    padding-top:15px;
+    margin:auto;*/
+    cursor:pointer;
+    float:left;
+    margin:5px 0 0 5px;
+}
+/*#upload_button:hover,#upload_image:hover{
+    color:#FFFFFF;
+}*/
+img.astr{
+    width:256px;
+    height:256px;
+}
+#ld,#ld2{
+    width:50px;
+    height:50px;
+    margin:10px auto;
+}
+#ld img,#ld2 img{
+    width:50px;
+    height:50px;
+    margin:0 auto;
+}
+/*--------------------
+A R C H I V O S  Z I P
+----------------------*/
+ul#zip{
+    margin:0 0 0 2px;
+    padding:0;
+    list-style:none;
+    width:100%;
+    height:auto;
+    float:left;
+}
+ul#zip li{
+    margin:5px 2px 5px 0;
+    padding:0;
+    display:block;
+    width:100%;
+    height:16px;
+    float:left;
+    font-size:13px
+}
+ul#zip li .fmt{
+    display:none;
+    width:50px;
+    height:16px;
+    background:#fff500;
+    border-top:1px #341600 solid;
+    border-bottom:1px #341600 solid;
+    border-right:1px #341600 solid;
+    float:left;
+    padding:2px 6px;
+    color:#341600;
+    font-weight:bold
+}
+ul#zip li .nm{
+    float:left;
+    border:1px #341600 solid;
+    width:auto;
+    height:16px;
+    background:#fff;
+    padding:2px 6px;
+}
+ul#zip li .nm a{
+    text-align:center;
+    text-decoration:none;
+    color:#000;
+}
+ul#zip li .dl{
+    float:left;
+    background-image:url('../img/erase.png');
+    background-repeat:no-repeat;
+    background-position:2px 0;
+    color:#f00;
+    font-weight:bold;
+    /*border:1px #000 solid;*/
+    width:22px;
+    height:22px;
+    margin:3px 0 0 1px;
+    cursor:pointer;
+}
+ul#zip li .dsc{
+    background-image:url('../img/description_icon.gif');
+    background-repeat:no-repeat;
+    background-position:2px 0;
+    width:16px;
+    height:84px;
+    float:left;
+    margin:3px 0 0 -2px;
+    cursor:pointer;
+}
+/*--------------------
+A R C H I V O S  Z I P
+----------------------*/
+ul#image{
+    margin:0 0 0 2px;
+    padding:0;
+    list-style:none;
+    width:100%;
+    height:auto;
+    float:left;
+}
+ul#image li{
+    margin:0;
+    padding:0;
+    display:block;
+    width:100px;
+    height:100px;
+    margin:5px;
+    float:left;
+    background:transparent;
+}
+ul#image li a{
+    text-decoration:none;
+    border:none;
+}
+ul#image li a img{
+    width:84px;
+    height:100px;
+    float:left;
+    border:none;
+}
+ul#image li .dt{
+    background-image:url('../img/erase.png');
+    background-repeat:no-repeat;
+    background-position:2px 0;
+    float:right;
+    width:16px;
+    height:16px;
+    border:none;
+    color:#f00;
+    cursor:pointer;
+    font-weight:bold;
+}
+ul#image li .dsc{
+    background-image:url('../img/description_icon.gif');
+    background-repeat:no-repeat;
+    background-position:2px 0;
+    width:16px;
+    height:84px;
+    float:right;
+    margin:0;
+    cursor:pointer;
+}
+/*ul#zip li a{
+    padding:2px 6px;
+    border:1px #341600 solid;
+    color:#000;
+    text-decoration:none;
+    font-weight:bold;
+}
+ul#zip li span{
+    color:#341600;
+    background:#fff500;
+    font-weight:bold;
+    padding:2px 6px;
+    border:1px #341600 solid;
+}*/
+/*----------------------
+A D E C U A C I O N E S
+-----------------------*/
+table tr td.sp{
+    text-align:left;
+    background:#fff;
+    border:none;
+    padding: 0 0 0 4px;
+    height:20px;
+}
+select.ad{
+    width:101%;
+}
+p{width:993px}
+.c1,.c2,.c3,.c4,.c5,.c6,.c7,.c8,.c9,.ca,.cb,.cc,.cd,.ce,.cf{
+    border:1px #000 solid;
+    height:18px;
+    margin:-11px 0 0;
+    position:absolute;
+}
+.c1{width:151px;margin-left:-78px}
+.c2{width:153px;margin-left:-79px}
+.c3{width:51px;margin-left:-28px}
+.c4{width:172px;margin-left:-89px}
+.c5{width:134px;margin-left:-70px}
+.c6{width:129px;margin-left:-67px}
+.c7{width:140px;margin-left:-73px}
+.c8{width:113px;margin-left:-59px}
+.c9{width:54px;margin-left:-30px}
+.ca{width:140px;margin-left:-73px}
+.cb{width:148px;margin-left:-77px}
+.cc{width:92px;margin-left:-49px}
+.cd{width:131px;margin-left:-69px}
+.ce{width:163px;margin-left:-84px}
+.cf{width:104px;margin-left:-55px}
+a.nw{
+    text-decoration:none;
+    border:none;
+}
+.conttwo h2 .ag{
+    cursor: pointer;
+    float: right;
+    height: 18px;
+    margin: -1px 1px 0 0;
+    padding: 0 10px;
+    width: 130px;
+    border:1px #b7b7b7 solid;    
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#ccc));
+    background-image: -webkit-linear-gradient(top,#f5f5f5,#ccc);
+    background-image: -moz-linear-gradient(top,#f5f5f5,#ccc);
+    background-image: -ms-linear-gradient(top,#f5f5f5,#ccc);
+    background-image: -o-linear-gradient(top,#f5f5f5,#ccc);
+    background-image: linear-gradient(top,#f5f5f5,#ccc);
+    filter:  progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#f5f5f5', endColorstr='#ccc');
+}
+/*.ag .sq{
+    width:30px;
+    height:30px;
+    float:left;
+    background:transparent;
+    margin:3px 0 0 1px;
+    padding:0;
+}
+.ag .sq #l{
+    width:12px;
+    height:30px;
+    background:#6a6a6a;
+    margin:0 auto;
+    border-radius:2px;
+}
+.ag .sq #a{
+    width:30px;
+    height:12px;
+    background:#6a6a6a;
+    margin:-21px 0 0;
+    border-radius:2px;
+}*/
+.conttwo h2 .ag h3{
+    margin:0;
+    padding:0;
+    color:#404040;
+    font-size:14px;
+}
+/*.ag:hover{
+    border:2px #aaa dashed;
+    color:#aaa;
+}
+.ag:hover h3{
+    color:#aaa
+}
+.ag:hover .sq #l,.ag:hover .sq #a{
+    background:#aaa;
+}*/
+.contenedor{
+    width:538px;
+    height:auto;
+    /*border:2px #999 solid;
+    background:#cae4ff;*/
+    padding:0 10px;
+    margin:0 0 0 -6px;
+}
+.contenedor fieldset{
+    margin:0;
+    padding:10px;
+    border:none
+}
+.contenedor fieldset legend{
+    color:#006;
+    font-weight:bold;
+    font-size:13px;
+    margin:0 0 10px -10px;
+}
+.contenedor fieldset label,.contenedor fieldset input{
+    display:inline-block;
+    margin:0;
+    padding:0;
+}
+.contenedor fieldset label{
+    font-size:13px;
+    float: left;
+    width: 100px;
+    text-align:left;
+    margin:0 0 0 4px;
+}
+.contenedor fieldset input{
+    float: left;
+}
+.contenedor fieldset .radio{
+    float: left;
+}
+.contenedor fieldset select{
+    width:145px;
+    float: left;
+    margin:0 0 0 1px;
+    display:block;
+}
+.field{
+    clear:both;
+    width:538px;
+    padding:10px 0 10px 0;
+    float: left;
+    background:transparent
+}
+.contenedor fieldset .desc{
+    width:530px;
+    height:auto;
+    float:left;
+}
+.contenedor fieldset .desc p{
+    width:495px;
+    font-size:11px;
+    text-align:justify;
+    float:left;
+    margin: 0 0 10px 12px;
+    padding:0 0 10px;
+    border-bottom:1px #aaa solid;
+}
+#inffo_coment{
+    height:37px;
+}
+.ventana{
+    background:#cae4ff;
+}
+.ventana label{
+    float:left;
+    margin:0 0 10px;
+}
+.ventana button{
+    float:right;
+    margin:10px 0 0;
+}
+.ventana fieldset{width:320px;border:1px #999 solid;box-sizing:border-box}
+.ventana fieldset legend{color:#006;font-size:12px;font-weight:bold}
+.ventana fieldset .bx{width:100%;height:22px;float:left;margin:0 0 5px 0}
+.ventana fieldset .bx label{width:30%;float:left;display:block;font-size:11px;text-align:left}
+.ventana fieldset .bx input[type=text]{width:67%;float:left;display:block}
+.ventana .ctable{
+    width:465px;
+    height:100px;
+    overflow-y:scroll;
+}
+.ventana .ctable table{
+    font-size:10px;
+}
+.ventana .ctable table tr th{
+    background:#2E9AFE;
+}
+/*------------------
+TABLA DE DESCRIPCION
+-------------------*/
+table#elementos{
+    width:auto;
+    border-collapse:collapse;
+    border:none;
+    background:transparent;
+}
+table#elementos tr td{
+    border:none;
+    border-bottom:1px #aaa solid;
+    font-size:12px;
+    background:transparent;
+    padding:0 3px;
+}
+table#elementos tr td.radio{
+    border:none;
+    padding:0 10px 0 0;
+}
+table#elementos tr td.radio input{
+    margin:5px 0 0;
+}
+table#elementos tr td.cont{
+    padding:3px 15px 3px 0;
+    text-align:justify;
+}
+table#elementos tr td.unidad{
+    color:#006;
+    text-align:center;
+    background:transparent;
+}
+.clear{clear:both}
+#exportPDF{float:left;margin:0 0 10px}
+.ds{background:#ccc}
+.en{background:#fff}
+.help{cursor:pointer;width:20px;height:21px;float:right;background:transparent url('../img/help.png') center no-repeat;
+}
+ul.intermp{
+    background:none;
+    float:left;
+    width:654px;
+    height:auto;
+    margin:0;
+    padding:0;
+    list-style:none; 
+    border-width:1px;
+    border-color:#000;
+    border-style:solid none none solid;
+    font-size:9pt
+}
+ul.intermp li{
+    height:20px;
+    border-width:1px;
+    border-color:#000;
+    border-style:none solid solid none;
+    margin:0;
+    padding:0;
+    float:left;
+}
+ul.intermp li input{
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    border:none;
+}
+ul.intermp li.t{background:#72a6f3;font-weight:bold}
+ul.intermp li.st{background:#cae4ff;font-weight:bold}
+ul.intermp li.tt{background:#e8e8e8;font-weight:bold}
+ul.intermp li._2{width:326px}
+ul.intermp li._4{width:162.5px}
+ul.intermp li._6{width:108px}
+ul.intermp li select{float:right;width:100%}
+/*  CARGA DE ARCHIVOS ZIP*/
+fieldset.check,fieldset.checkimg{width:280px;padding:10px;margin:0 0 4px 2px;font-size:9pt;}
+fieldset.check legend,fieldset.checkimg legend{font-weight:bold}
+fieldset.check .fa,fieldset.checkimg .fa{width:100%;display:block;height:22px}
+fieldset.check .fa label,fieldset.checkimg .fa label{float:left;display:block;margin:2px 0 0}
+fieldset.check .fa input,fieldset.checkimg .fa input{display:block}
+fieldset.check .fa input[type=checkbox],fieldset.checkimg .fa input[type=checkbox]{float:left}
+fieldset.check .fa button,fieldset.checkimg .fa button{float:right !important}
+fieldset.check textarea,fieldset.checkimg textarea{width:100%;height:20px;border:1px #000 solid}
+.red{color:#f00}
+#fz_configplanta,#fz_longcabletierra{margin-left:-162px}
+#fz_configplanta,#fz_cact,#fz_longcabletierra{width:315px}
+.novalid{background-color:#fcc !important}
+.valid{color:#000 !important;background-color:#fff !important}
+#openBit{float:right}
+.mp_lgcbl{border:1px #000 solid;width:82px;text-align:center}
+/*
+    ESTADO DE CANALETAS V4
+*/
+ul.can{
+    float:left;
+    width:100%;
+    height:auto;
+    margin:0 0 10px;
+    padding:0;
+    list-style:none;
+    box-sizing:border-box;
+    border-width:1px;
+    border-color:#000;
+    border-style:none none solid solid;
+    
+}
+ul.can li{
+    float:left;
+	/*width:12%;*/
+    width:11%;
+    height:29px;
+    margin:0;
+    padding:2px 0 0 0;
+    border-width:1px;
+    border-color:#000;
+    border-style:solid solid none none;
+    box-sizing:border-box;
+    font:normal 9pt Arial;
+}
+ul.can li select{
+    margin:0;
+    width:100%;
+    height:100%;
+}
+ul.can li input{
+    margin:0;
+    width:100%;
+    height:100%;
+    border:none;
+    box-sizing:border-box;
+}
+ul.can li.th{
+    width:100%;
+    background:#72a6f3;
+    font:bold 10pt Arial;
+    text-align:center;
+}
+ul.can li.blu{
+    background:#cae4ff;
+    font:bold 9pt Arial;
+    text-align:center;
+
+}
+ul.can li.al{width:12% !important}
+ul.can li.sky{background:#e8e8e8 !important}
+ul.can li.skyb{background:#cae4ff !important}
+ul.can li.txt{
+    width:100%;
+    height:100px;
+    background:#fff;
+}
+ul.can li.txt textarea{width:100%; height:77px}
+/********************************
+    CHROME
+*********************************/
+/* ESTADO GENERAL DE SITIO */
+.chrome .other{height:19px;margin:-4px 0 0 13px}
+.chrome .other9{width:104px}
+.chrome .other10{width:107px}
+.chrome #tipo_maniobra_ot{height:17px;margin:-3px 0 0 13px}
+/* FO */
+.chrome .other3{margin-left:60px}
+.chrome .foc2{margin:-1px 0 0 -80px}
+.chrome .foc3{width:117px;margin:-11px 0 0 -62px}
+.chrome .foc7,.chrome .foc7_b{width:98px;margin:-11px 0 0 -5px}
+.chrome .foc4,.chrome .foc5{width:84px;margin:-11px 0 0 -45px}
+/*  MULTIPAR    */
+.chrome .intmp1{width:39px}
+.chrome .intmp2{width:56px}
+/*	COAXIAL	*/
+.chrome .cx1{margin:-1px 0 0 -55px;width:82px}
+.chrome .cx2{margin:-11px 0 0 -62px;width:117px}
+.chrome .cx4{margin:-11px 0 0 -68px;width:129px}
+.chrome .cx6{margin:-11px 0 0 -58px;width:110px}
+/*  GESTIÓN Y SINCRONIA */
+.chrome .sg1{margin:-1px 0 0 -57px}
+.chrome .sg2{margin:-11px 0 0 -53px;width:99px}
+.chrome .sg3{margin:-11px 0 0 -26px;width:45px}
+.chrome .sg4{margin:-11px 0 0 -56px;width:106px}
+.chrome .sg5{margin:-11px 0 0 -53px;width:99px}
+.chrome .sg6{margin:-11px 0 0 -50px;width:93px}
+/*  FUERZA  */
+.chrome .other5{margin-left:90px}
+.chrome .other7{margin-left:83px}
+.chrome #fz_configplanta,.chrome #fz_cact,.chrome #fz_longcabletierra{width:317px}
+.chrome .fz2{margin:-1px 0 0 -56px;width:85px}
+.chrome .fz3{margin:-12px 0 0 -52px;width:98px}
+.chrome .fz6{margin:-12px 0 0 -53px;width:100px}
+.chrome .fz7{margin:-12px 0 0 -38px;width:70px}

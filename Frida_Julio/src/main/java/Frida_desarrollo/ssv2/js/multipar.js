@@ -1,0 +1,1 @@
+window.location.href="agenda_cns2_op.php?nomof=ACX01LTUL2&id_ot=615&id_tabla=1461&tabla=equipos_atm&fp1=&hp1=&routerant=&routeract=&observaciones_cns2=Linea 1. Linea 2.&tipo_trabajo=CONFIGURACION TERCER PUERTO HSI&tx_nvo=&sesion=&psax_nvo=&tx_nvo=&slot_nvo=&puerto_nvo=&sisa_nvo=&verifica=1";

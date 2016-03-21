@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".buildpath" server="10.105.59.73" local="130560731299875150" remote="130554435600000000" Dst="2" />
+<file name="achivo_carga_referencia_combo.php" server="10.105.59.73" local="130560731317546160" remote="130554435600000000" Dst="2" />
+<file name="actualiza_nulo_tipo_trayecto.php" server="10.105.59.73" local="130560731331246944" remote="130554435600000000" Dst="2" />
+<file name="autocompletar_email.php" server="10.105.59.73" local="130560731338387352" remote="130554435600000000" Dst="2" />
+<file name="borrarArchivoServer.php" server="10.105.59.73" local="130560731364418841" remote="130554435600000000" Dst="2" />
+<file name="borrar_archivos_referencia_sisa_fo_prov.php" server="10.105.59.73" local="130560731364418841" remote="130554435600000000" Dst="2" />
+<file name=".project" server="10.105.59.73" local="130560731364468844" remote="130554435600000000" Dst="2" />
+<file name="busqueda_archvoDao.php" server="10.105.59.73" local="130560731372459301" remote="130554435600000000" Dst="2" />
+<file name="cargarArchivos.php" server="10.105.59.73" local="130560731372489303" remote="130554435600000000" Dst="2" />
+<file name="cargar_archivos_ref_sisa_prov.php" server="10.105.59.73" local="130560731423072196" remote="130554435600000000" Dst="2" />
+<file name="carga_archvos_principal_prov.php" server="10.105.59.73" local="130560731454233978" remote="130554436200000000" Dst="2" />
+<file name="Carga_ServidorPhp.php" server="10.105.59.73" local="130560731476775268" remote="130554436200000000" Dst="2" />
+<file name="carga_archivos.php" server="10.105.59.73" local="130560731543869105" remote="130554436200000000" Dst="2" />
+<file name="conexion.php" server="10.105.59.73" local="130560731624043691" remote="130554463200000000" Dst="2" />
+<file name="conexion_bas_user.php" server="10.105.59.73" local="130560731640734646" remote="130554435600000000" Dst="2" />
+<file name="DAO_actualiza_terminar.php" server="10.105.59.73" local="130560731640824651" remote="130554436200000000" Dst="2" />
+<file name="DAO_actualiza__Cambio_Nodo_Acceso.php" server="10.105.59.73" local="130560731655775506" remote="130554436200000000" Dst="2" />
+<file name="DAO_actualiza__ladaEnlaces.php" server="10.105.59.73" local="130560731655805508" remote="130554436200000000" Dst="2" />
+<file name="Dao_busqueda_terminado_and.php" server="10.105.59.73" local="130560731655825509" remote="130554436200000000" Dst="2" />
+<file name="Dao_select__cambio_nodo.php" server="10.105.59.73" local="130560731663635955" remote="130554436200000000" Dst="2" />
+<file name="Envia_MAil_terminado.php" server="10.105.59.73" local="130560731663635955" remote="130554436200000000" Dst="2" />
+<file name="Generic_querys_GOD - copia.php" server="10.105.59.73" local="130560731666586124" remote="130554436200000000" Dst="2" />
+<file name="Generic_querys_GOD.php" server="10.105.59.73" local="130560731668686244" remote="130554436200000000" Dst="2" />
+<file name="Generic_querys_POST.php" server="10.105.59.73" local="130560731675076610" remote="130554436200000000" Dst="2" />
+<file name="Generic_querys_POST_OLD.php" server="10.105.59.73" local="130560731675096611" remote="130554436200000000" Dst="2" />
+<file name="Implements_Envia_correo.php" server="10.105.59.73" local="130560731689837454" remote="130554436200000000" Dst="2" />
+<file name="imports.php" server="10.105.59.73" local="130560731692637614" remote="130554436200000000" Dst="2" />
+<file name="Implements_Envia_correo_tavo.php" server="10.105.59.73" local="130560731699668016" remote="130554436200000000" Dst="2" />
+<file name="imports_terminado_and.php" server="10.105.59.73" local="130560731702858199" remote="130554436200000000" Dst="2" />
+<file name="inclu_trayectorias2.php" server="10.105.59.73" local="130560731758621388" remote="130554487200000000" Dst="2" />
+<file name="inclu_trayectoriasQuerys2.php" server="10.105.59.73" local="130560731776002382" remote="130554436800000000" Dst="2" />
+<file name="imports_update_terminar.php" server="10.105.59.73" local="130560731781382690" remote="130554436200000000" Dst="2" />
+<file name="nomad_mimemail.inc.php" server="10.105.59.73" local="130560731943961989" remote="130554436800000000" Dst="2" />
+<file name="Query_impl.php" server="10.105.59.73" local="130560732789740365" remote="130554435600000000" Dst="2" />
+<file name="Query_impl_busqueda_terminado_and.php" server="10.105.59.73" local="130560732789740365" remote="130554436200000000" Dst="2" />
+<file name="Query_update_Cambio_De_Nodo.php" server="10.105.59.73" local="130560732795480693" remote="130554436200000000" Dst="2" />
+<file name="Query_update_repisa_update_Imp.php" server="10.105.59.73" local="130560732795490694" remote="130554436200000000" Dst="2" />
+<file name="Query_update_terminar_Imp.php" server="10.105.59.73" local="130560732795500694" remote="130554436200000000" Dst="2" />
+<file name="requerido_alata_constru_fo_pro.php" server="10.105.59.73" local="130560732809131474" remote="130554436800000000" Dst="2" />
+<file name="requerido_alta_planifica_contru_fo_pro.php" server="10.105.59.73" local="130560732809131474" remote="130554436800000000" Dst="2" />
+<file name="select_fibra_optica_ladenlaces.php" server="10.105.59.73" local="130560732809161476" remote="130554463200000000" Dst="2" />
+<file name="smtp.php" server="10.105.59.73" local="130560732814281769" remote="130554436800000000" Dst="2" />
+<file name="tabla_archivos_referencia_sisa_fo_prov.php" server="10.105.59.73" local="130560732828472580" remote="130554437400000000" Dst="2" />
+<file name="tabla_carga_archivos_fo_prov.php" server="10.105.59.73" local="130560732828542584" remote="130554437400000000" Dst="2" />
+</dwsync>

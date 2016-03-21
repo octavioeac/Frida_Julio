@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="adodb-active-record.inc.php" server="10.105.59.73" local="131022062807984470" remote="129970008000000000" Dst="1" />
+<file name="adodb-csvlib.inc.php" server="10.105.59.73" local="131022062809094533" remote="129970008000000000" Dst="1" />
+<file name="adodb-error.inc.php" server="10.105.59.73" local="131022062811564674" remote="129970008000000000" Dst="1" />
+<file name="adodb-datadict.inc.php" server="10.105.59.73" local="131022062811564674" remote="129970008000000000" Dst="1" />
+<file name="adodb-errorhandler.inc.php" server="10.105.59.73" local="131022062813594790" remote="129970008000000000" Dst="1" />
+<file name="adodb-errorpear.inc.php" server="10.105.59.73" local="131022062813954811" remote="129970008000000000" Dst="1" />
+<file name="adodb-exceptions.inc.php" server="10.105.59.73" local="131022062814254828" remote="129970008000000000" Dst="1" />
+<file name="adodb-iterator.inc.php" server="10.105.59.73" local="131022062814584847" remote="129970008000000000" Dst="1" />
+<file name="adodb-lib.inc.php" server="10.105.59.73" local="131022062814584847" remote="129970008000000000" Dst="1" />
+<file name="adodb-memcache.lib.inc.php" server="10.105.59.73" local="131022062815024872" remote="129970008000000000" Dst="1" />
+<file name="adodb-pager.inc.php" server="10.105.59.73" local="131022062816964983" remote="129970008000000000" Dst="1" />
+<file name="adodb-pear.inc.php" server="10.105.59.73" local="131022062817905037" remote="129970008000000000" Dst="1" />
+<file name="adodb-perf.inc.php" server="10.105.59.73" local="131022062817925038" remote="129970008000000000" Dst="1" />
+<file name="adodb-php4.inc.php" server="10.105.59.73" local="131022062818225055" remote="129970008000000000" Dst="1" />
+<file name="adodb-time.inc.php" server="10.105.59.73" local="131022062819455126" remote="129970008000000000" Dst="1" />
+<file name="adodb-xmlschema.inc.php" server="10.105.59.73" local="131022062819475127" remote="129970008000000000" Dst="1" />
+<file name="adodb-xmlschema03.inc.php" server="10.105.59.73" local="131022062828565647" remote="129970008000000000" Dst="1" />
+<file name="adodb.inc.php" server="10.105.59.73" local="131022062828775659" remote="129970008000000000" Dst="1" />
+<file name="license.txt" server="10.105.59.73" local="131022062857567306" remote="129970008000000000" Dst="1" />
+<file name="pivottable.inc.php" server="10.105.59.73" local="131022062859087393" remote="129970008000000000" Dst="1" />
+<file name="readme.txt" server="10.105.59.73" local="131022062859097393" remote="129970008000000000" Dst="1" />
+<file name="rsfilter.inc.php" server="10.105.59.73" local="131022062859267403" remote="129970008000000000" Dst="1" />
+<file name="server.php" server="10.105.59.73" local="131022062859567420" remote="129970008000000000" Dst="1" />
+<file name="toexport.inc.php" server="10.105.59.73" local="131022062904559993" remote="129970008000000000" Dst="1" />
+<file name="xmlschema.dtd" server="10.105.59.73" local="131022062904579995" remote="129970008000000000" Dst="1" />
+<file name="tohtml.inc.php" server="10.105.59.73" local="131022062904609996" remote="129970008000000000" Dst="1" />
+<file name="xmlschema03.dtd" server="10.105.59.73" local="131022062907190144" remote="129970008000000000" Dst="1" />
+</dwsync>

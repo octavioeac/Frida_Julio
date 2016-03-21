@@ -1,0 +1,427 @@
+/* 
+    Document   : ssv2
+    Created on : 16/05/2013, 01:08:35 PM
+    Author     : HP435
+    Description:
+    Purpose of the stylesheet follows.
+*/
+
+body{
+    margin:0;
+    padding:0;
+    text-align:center;
+    font-family:Arial;
+    background: #fff;
+}
+#main{
+    width:1000px;
+    height:500px;
+    background:transparent;
+    margin:0 auto;  
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+    margin:0 0 10px;
+    font-size:9pt;
+}
+table#end{
+    margin:-11px 0 20px;
+}
+table tr th{
+    background:#000;
+    color:#fff;
+    font-weight:bold;
+    padding:4px 0;
+}
+table tr th.sub{
+    background:#00f;
+    color:#fff;
+    font-weight:bold;
+    padding:4px 0;
+    position: relative;
+    width: 200px;
+}
+table tr td{
+    text-align:left;
+    background:#fff;
+    border: 1px #000 solid;
+    padding: 0 0 0 4px;
+}
+table tr td img{
+    cursor:pointer
+}
+table tr td.h{
+    text-align:center;
+    background:#fff;
+    border: 1px #000 solid;
+}
+table tr td.h2{
+    text-align:center;
+    background:#fff;
+    border: 1px #000 solid;
+    height:20px
+}
+table tr td.h img{
+    margin:-44px 0 0 -60px;
+    position:absolute;
+}
+table tr td.t{
+    text-align:center;
+    background:#cae4ff;
+    border: 1px #000 solid;
+    font-weight:bold;
+}
+.input{
+    width:100%;
+    max-width: auto;
+    height:100%;
+    background:#fff;
+    border:1px #fff solid;
+    font-weight: bold;
+}
+.inputfocus{
+    width:100%;
+    max-width: auto;
+    height:100%;
+    background:#ff9;
+    border:1px #ff0 solid;
+    font-weight: bold;
+}
+.input:focus{
+    background:#ff9;
+    border:1px #ff0 solid;
+}
+textarea{
+    max-width:98%;
+    min-width:98%;
+    background:#cae4ff;
+    border: none;
+    font-family: Arial;
+    padding:10px 1%;
+    margin:0;
+    resize: none;
+}
+textarea.f{
+    background:#ff9;
+}
+textarea:focus{
+    background:#ff9;
+}
+textarea#eg_tt_coment{
+    min-height:17px;
+    max-height:17px;
+}
+textarea#eg_es_coment, textarea#eg_tp_coment{
+    min-height:62px;
+    max-height:62px;
+}
+textarea#eg_tc_coment, textarea#eg_oc_coment{
+    min-height:103px;
+    max-height:103px;
+}
+textarea#fo_canaleta_coment,textarea#dwfo_canaleta_coment,textarea#cx_escalerilla_coment,textarea#gs_canaleta_coment,textarea#fz_escalerilla_coment,textarea#mp_canaleta_coment{
+    min-height:19px;
+    max-height:19px;
+}
+textarea#fo_tipo_canaleta_coment,textarea#dwfo_tipo_canaleta_coment,textarea#cx_tipo_escalerilla_coment,textarea#gs_tipo_canaleta_coment,textarea#fz_tipo_escalerilla_coment,textarea#mp_tipo_canaleta_coment{
+    min-height:79px;
+    max-height:79px;
+}
+textarea#fo_final_coment{
+    min-height:100px;
+    max-height:100px;
+}
+/*CONEXIONES ALTO ORDEN*/
+.conttwo{
+    width:999px;
+    height:auto;
+    background:#fff;
+    padding:0 1px 0 0;
+    float:left;
+}
+.conttwo .scsa{
+    width:319px;
+    height:200px;
+    background: #cae4ff;
+    border: 1px #000 solid;
+    float:left;
+    margin:0 6px;
+    padding:0;    
+}
+.conttwo .scsa h2{
+    width:100%;
+    margin:0;
+    padding:2px 0 0;
+    height:20px;
+    background:#000;
+    color:#fff;
+    font:bold 9pt Arial;
+}
+.conttwo .scsa img{
+    margin: 0 auto;
+    text-align:center;
+    width:250px;
+    height:178px
+}
+.conttwo .lf{
+    float:left;
+    width:654px;
+    height:auto;
+    background:#fff;
+    margin:0 0 10px 6px;
+}
+.conttwo .lf h2{
+    width:100%;
+    margin:0;
+    padding:2px 0 0;
+    height:20px;
+    background:#00f;
+    color:#fff;
+    font:bold 10pt Arial;
+}
+.conttwo .lf .l{
+    width: 319px;
+    height:auto;
+    background:#fff;
+    float:left;
+}
+.conttwo .lf .l#a1 h3,.conttwo .lf .l#a2 h3{
+    background:#00f;
+    color:#fff;
+    font:bold 10pt Arial;
+    height:20px;
+    margin:15px 0 0;
+    padding:2px 0 0;
+    width:100%;
+}
+.conttwo .lf .l#a1{
+    margin:0 6px 20px 0;
+}
+.conttwo .lf .l#a2{
+    margin:0 0 20px 10px;
+}
+.gen{
+    border:none;
+    height:17px;
+    margin:0 0 0 -4px;
+    width:87px;
+    background:#cae4ff;
+}
+table tr th.w1{
+    width:83px;
+}
+table tr td.w1{
+    width:83px;
+    text-align:center;
+    background:#cae4ff;
+    border: 1px #000 solid;
+    font-weight:bold;
+}
+table.int{
+    border: 1px solid #000000;
+    margin: -10px 0 0 -5px;
+    position: absolute;
+    width: 334px;
+}
+table.int tr td{
+    border: 1px solid #000000;
+    text-align: center;
+}
+table.int tr td.t{
+    background:#CAE4FF;
+    border: 1px solid #000000;
+    font-weight: bold;
+    text-align: center;
+}
+.other,.other2,.other3,.other4,.other5,.other6{position:absolute;float:right;height:17px;margin:-3px 0 0;background:#fff;border:1px #000 solid}
+.other,.other2{margin-left:10px;width:110px}
+.other{width:150px;height:18px}
+.other2{width:110px}
+.other3{margin-left:61px;width:150px}
+.other4{margin-left:72px;width:100px}
+.other5{margin-left:91px;width:150px}
+.other6{height:17px;margin:-10px 0 0 -5px;width:333px}
+.foc2:focus,.foc2:active {
+    background:#fff;
+}
+.foc2,.foc3,.foc4,.foc5,.foc6,.cx1,.cx2,.cx3,.cx4,.cx5,.cx6,.sg1,.sg2,.sg3,.sg4,.sg5,.sg6,.fz0,.fz1,.fz2,.fz3,.fz4,.fz5,.fz6,.fz7,.fz8,.mp1,.mp2,.mp3,.mp4{
+    position:absolute;background:#cae4ff;height:18px;border:1px #000 solid;margin:-11px 0 0}
+.cx1:focus,.cx2:focus,.cx3:focus,.cx4:focus,.cx5:focus,.cx6:focus,.sg1:focus,.sg2:focus,.sg3:focus,.sg4:focus,.sg5:focus,.sg6:focus{background:#fff}
+.fz3{margin-left:-38px}
+.foc2{width:86px;margin-left:-46px;text-align:center}
+.foc3{margin-left:-37px;width:52px}
+.foc4{width:67px;margin-left:-36px}
+.foc5{margin-left:-36px;width:66px}
+.foc6{margin-left:-31px;width:56px}
+.cx1{margin-left:-48px}
+.cx4,.cx6{width:82px}
+.cx1{width:90px}
+.cx2{width:89px;margin-left:-5px}
+.cx3,.fz1{margin-left:-42px;width:78px}
+.cx4{margin-left:-52px;text-transform:uppercase}
+.cx5{margin-left:-37px;width:69px}
+.cx6{margin-left:-44px}
+
+.ck1,.ck2,.ck3,.ck4,.ck5{position:absolute;margin:-6px 0 0}
+.ck1{margin-left:18px}
+.ck2{margin-left:28px}
+.ck3{margin-left:33px}
+.ck4{margin-left:45px}
+.ck5{margin-left:61px}
+
+
+.sg1{margin-left:-57px;width:108px}
+.sg2{margin:-12px 0 0 -53px;width:98px}
+.sg3{margin:-12px 0 0 -25px;width:45px}
+.sg4{margin:-12px 0 0 -56px;width:104px}
+.sg5{margin:-12px 0 0 -52px;width:80px}
+.sg6{margin:-12px 0 0 -49px;width:89px}
+.fz2{margin-left:-49px;width:92px}
+.fz0{margin:0 0 0 -4px;width:317px}
+.fz3{width:71px}
+.fz4{margin-left:-43px;width:81px}
+.fz5{margin-left:-33px;width:59px}
+.fz6{margin-left:-36px;width:65px}
+.fz7{margin-left:-32px;width:58px}
+.fz8{margin-left:-30px;width:55px}
+.mp1,.mp2,.mp3,.mp4{margin-left:-5px}
+.mp1{width:63px}
+.mp2{width:94px}
+.mp3{width:46px;text-transform:uppercase}
+.mp4{width:60px}
+select{
+    border:none;
+    height:20px;
+    margin:0 0 0 -4px;
+    width:105%;
+}
+.conttwo .rf{
+    width:320px;
+    height:auto;
+    float:right;
+    background:#fff;
+}
+.conttwo .rf .box{
+    width:318px;
+    height:319px;
+    background:#cae4ff;
+    border:1px #000 solid;
+    margin:0 0 20px;
+}
+.conttwo .rf .box h2{
+    background:#000;
+    color:#fff;
+    font:bold 9pt Arial;
+    height:20px;
+    margin:0;
+    padding:2px 0 0 1%;
+    width:99%;
+    text-align:left;
+}
+.conttwo .rf .box img{
+    margin:20px auto;
+    text-align:center;
+    width:300px;
+    height:270px;
+}
+.conttwo .rf .ct1{
+    width:316px;
+    height:566px;
+    border:2px #000 solid;
+}
+.conttwo .rf .ct1 img{
+    margin:20px auto;
+    text-align:center;
+    width:300px;
+    height:500px;
+}
+.conttwo .rf .ct1 .conttable{
+    margin:20px auto;
+    text-align:center;
+    width:300px;
+    height:500px;
+}
+.conttwo .rf h3{
+    text-align: right;
+    color:#000;
+    margin:5px 0 0;
+    font-size:10pt;
+}
+.comentarios{
+    width: 987px;
+    height:auto;
+    margin:20px 0 0 6px;
+    background:#fff;
+}
+#contplanos{
+    border:2px #000 solid;
+    width:983px;
+    height:auto;
+    margin:0 0 10px;
+}
+#contplanos img{
+    margin:0 auto;
+    text-align:center;
+    width:900px;
+    height:auto;
+}
+.ct{
+    width:633px;
+    height:510px;
+    margin: 0 auto;
+    background:#fff;
+    padding:10px;
+    border:1px #000 solid
+}
+.square,.letter{
+    float:left;
+    width:68px;
+    height:35px;                
+    margin:-1px 0 0 -1px;
+    background:#fff;
+
+}
+.square{
+    border:1px #000 solid;
+    margin:0 0 2px 2px;
+}
+.letter{
+    border:none;
+    text-align:right;
+    height:27px;
+    width:19px;
+    padding:8px 10px 0 0;
+    margin:1px 0 0 1px;
+}
+#nivel{
+    float:left;
+    width:20px;
+    height:269px;
+    background:none;
+    text-align:center;
+    padding:200px 0 0;
+}
+#vertical{
+    float:left;
+    width:590px;
+    height:20px;
+    background:none;
+    margin:0 0 0 32px;
+    text-align:center;
+}
+#parentesis{
+    float:left;
+    width:592px;
+    height:35px;
+    background:none;
+    margin:5px 0 0 52px;
+    text-align:center;
+}
+.inter{
+    float:left;
+    width:70px;
+    height:35px;
+    margin:0 0 2px 2px;
+    text-align:center;
+}

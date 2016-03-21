@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="bootstrap.php" server="frida2" local="130414503170027195" remote="130453345800000000" Dst="2" />
+<file name="fakepopserver.sh" server="frida2" local="130414503170717234" remote="130453345800000000" Dst="2" />
+<file name="fakesendmail.sh" server="frida2" local="130414503171707291" remote="130453345800000000" Dst="2" />
+<file name="phpmailerLangTest.php" server="frida2" local="130414503172747350" remote="130453345800000000" Dst="2" />
+<file name="runfakepopserver.sh" server="frida2" local="130414503175477506" remote="130453345800000000" Dst="2" />
+<file name="testbootstrap-dist.php" server="frida2" local="130414503177947648" remote="130453345800000000" Dst="2" />
+<file name="phpmailerTest.php" server="frida2" local="130414503174597456" remote="130453345800000000" Dst="2" />
+<file name="test_callback.php" server="frida2" local="130414503176597570" remote="130453345800000000" Dst="2" />
+<file name="bootstrap.php" server="10.105.59.73" local="130414503170027195" remote="130483894200000000" Dst="2" />
+<file name="fakesendmail.sh" server="10.105.59.73" local="130414503171707291" remote="130483894200000000" Dst="2" />
+<file name="phpmailerLangTest.php" server="10.105.59.73" local="130414503172747350" remote="130483894200000000" Dst="2" />
+<file name="fakepopserver.sh" server="10.105.59.73" local="130414503170717234" remote="130483894200000000" Dst="2" />
+<file name="runfakepopserver.sh" server="10.105.59.73" local="130414503175477506" remote="130483894200000000" Dst="2" />
+<file name="testbootstrap-dist.php" server="10.105.59.73" local="130414503177947648" remote="130483894200000000" Dst="2" />
+<file name="test_callback.php" server="10.105.59.73" local="130414503176597570" remote="130483894200000000" Dst="2" />
+<file name="phpmailerTest.php" server="10.105.59.73" local="130414503174597456" remote="130483894200000000" Dst="2" />
+</dwsync>

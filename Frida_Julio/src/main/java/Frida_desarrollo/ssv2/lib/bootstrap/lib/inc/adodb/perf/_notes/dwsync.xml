@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="perf-db2.inc.php" server="10.105.59.73" local="131022062515677751" remote="129970008000000000" Dst="1" />
+<file name="perf-informix.inc.php" server="10.105.59.73" local="131022062516057772" remote="129970008000000000" Dst="1" />
+<file name="perf-mssql.inc.php" server="10.105.59.73" local="131022062516597803" remote="129970008000000000" Dst="1" />
+<file name="perf-mssqlnative.inc.php" server="10.105.59.73" local="131022062516757812" remote="129970008000000000" Dst="1" />
+<file name="perf-mysql.inc.php" server="10.105.59.73" local="131022062516937823" remote="129970008000000000" Dst="1" />
+<file name="perf-oci8.inc.php" server="10.105.59.73" local="131022062517137834" remote="129970008000000000" Dst="1" />
+<file name="perf-postgres.inc.php" server="10.105.59.73" local="131022062517387848" remote="129970008000000000" Dst="1" />
+</dwsync>

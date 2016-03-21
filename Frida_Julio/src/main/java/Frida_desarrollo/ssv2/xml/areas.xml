@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+    <area id="Area1">
+        <nombre>ACAPULCO</nombre>
+        <nombre>AGUASCALIENTES</nombre>
+        <nombre>VERACRUZ</nombre>
+        <nombre>YUCATAN</nombre>
+        <nombre>ZACATECAS</nombre>
+    </area>
+    <area id="Area2">
+        <nombre>MANCHESTER</nombre>
+        <nombre>NEWCASTLE</nombre>
+        <nombre>LONDRES</nombre>
+        <nombre>WIGAN</nombre>
+        <nombre>QUEENS PARK</nombre>
+    </area>
+    <area id="Area3">
+        <nombre>BERLIN</nombre>
+        <nombre>MUNICH</nombre>
+        <nombre>FRANKFURD</nombre>
+        <nombre>BREMEN</nombre>
+        <nombre>SHALKE</nombre>
+    </area>
+    <area id="Area4">
+        <nombre>SAO PAULO</nombre>
+        <nombre>RIO DE JANEIRO</nombre>
+        <nombre>BRASILIA</nombre>
+        <nombre>PARANA</nombre>
+        <nombre>GOIAS</nombre>
+    </area>
+    <area id="Area5">
+        <nombre>KYOTO</nombre>
+        <nombre>YOKOHAMA</nombre>
+        <nombre>BRASILIA</nombre>
+        <nombre>OSAKA</nombre>
+        <nombre>SAITAMA</nombre>
+    </area>
+</areas>

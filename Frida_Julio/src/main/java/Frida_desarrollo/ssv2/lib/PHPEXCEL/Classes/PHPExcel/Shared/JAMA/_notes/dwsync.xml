@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.TXT" server="10.105.59.73" local="131022063270580929" remote="130382136000000000" Dst="1" />
+<file name="EigenvalueDecomposition.php" server="10.105.59.73" local="131022063275431206" remote="130382136000000000" Dst="1" />
+<file name="CholeskyDecomposition.php" server="10.105.59.73" local="131022063277271311" remote="130382136000000000" Dst="1" />
+<file name="LUDecomposition.php" server="10.105.59.73" local="131022063278871403" remote="130382136000000000" Dst="1" />
+<file name="Matrix.php" server="10.105.59.73" local="131022063278901405" remote="130382136000000000" Dst="1" />
+<file name="QRDecomposition.php" server="10.105.59.73" local="131022063281251539" remote="130382136000000000" Dst="1" />
+<file name="SingularValueDecomposition.php" server="10.105.59.73" local="131022063289512011" remote="130382136000000000" Dst="1" />
+</dwsync>

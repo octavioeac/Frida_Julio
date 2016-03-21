@@ -1,0 +1,97 @@
+		*{
+			list-style:none;
+		}
+		
+		div.domtab{
+			padding:0 0em;	/* Margen Top Left contenido de pestaña */
+			width:900px;
+			font-size:100%;
+		}
+		ul.domtabs{
+			float:left;
+			width:100%;
+			margin:1em 0 0 0;	/* Margen top */
+		}
+		ul.domtabs li{
+			float:left;
+			padding:0 .5em 0 0;	/* Separacion entre pestañas */
+		}
+		/* Atributos de la pestaña */
+		ul.domtabs a:link,
+		ul.domtabs a:visited,
+		ul.domtabs a:active,
+		ul.domtabs a:hover{
+			width:10em;	/* Tamaño del cuadro 12em*/
+			padding:.2em 1em;
+			display:block;
+			background:#E8E8E8;
+			color:#000066;
+			height:3em;
+			font-weight:bold;
+			text-decoration:none;
+			border-style:solid solid none;
+			border-color:#999999;
+			border-width:1px;
+		}
+		ul.domtabs a:hover{
+			background:#CAE4FF /* Color de la pestaña cuando se pasa el mouse */;
+		}
+		div.domtab div{
+			clear:both;
+			width:auto;
+			background:#CAE4FF;
+			color:#000066;
+			padding:.3em 0;	/* Margen del contenido en la pestaña top-left */
+		}
+		ul.domtabs li.active a:link,
+		ul.domtabs li.active a:visited,
+		ul.domtabs li.active a:active,
+		ul.domtabs li.active a:hover{
+			background:#CAE4FF;
+			color:#000066;
+		}
+		#domtabprintview{
+			float:right;
+			padding-right:1em;
+			text-align:right;
+		}
+		#domtabprintview a:link,
+		#domtabprintview a:visited,
+		#domtabprintview a:active,
+		#domtabprintview a:hover{
+			color:#fff;
+		}
+		p{
+			margin:0 0 .5em 0;
+			line-height:1em;
+		}
+		pre{
+			font-size:1.2em;
+			padding:1em;
+		}
+		div.domtab div a:link,
+		div.domtab div a:visited,
+		div.domtab div a:active
+		{
+			display:block;
+			padding:1em .5em;
+			font-weight:bold;
+			font-size:1em;
+		}
+		div.domtab div h2 a,
+		div.domtab div h2 a:hover,
+		div.domtab div h2 a:active
+		{
+			color:#0000FF;   /* Color del Subtitulo de cada pestaña */
+			display:inline;
+			padding:0;
+			font-weight:normal;
+			font-size:2em;
+		}
+		html>body ul.domtabs a:link,
+		html>body ul.domtabs a:visited,
+		html>body ul.domtabs a:active,
+		html>body ul.domtabs a:hover{
+			height:auto;
+			min-height:2em;	/* Alto de la pestaña */
+		}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="10.105.59.73" local="131022063126762703" remote="130382136000000000" Dst="1" />
+<file name="CachedObjectStorageFactory.php" server="10.105.59.73" local="131022063149073979" remote="130382136000000000" Dst="1" />
+<file name="Calculation.php" server="10.105.59.73" local="131022063176475546" remote="130382136000000000" Dst="1" />
+<file name="Cell.php" server="10.105.59.73" local="131022063177615611" remote="130737240000000000" Dst="1" />
+<file name="Chart.php" server="10.105.59.73" local="131022063179665729" remote="130382136000000000" Dst="1" />
+<file name="Comment.php" server="10.105.59.73" local="131022063179695730" remote="130382136000000000" Dst="1" />
+<file name="DocumentProperties.php" server="10.105.59.73" local="131022063179985747" remote="130382136000000000" Dst="1" />
+<file name="DocumentSecurity.php" server="10.105.59.73" local="131022063179985747" remote="130382136000000000" Dst="1" />
+<file name="Exception.php" server="10.105.59.73" local="131022063190776364" remote="130382136000000000" Dst="1" />
+<file name="HashTable.php" server="10.105.59.73" local="131022063190786365" remote="130382136000000000" Dst="1" />
+<file name="IComparable.php" server="10.105.59.73" local="131022063190796365" remote="130382136000000000" Dst="1" />
+<file name="IOFactory.php" server="10.105.59.73" local="131022063191856426" remote="130736376000000000" Dst="1" />
+<file name="NamedRange.php" server="10.105.59.73" local="131022063247669618" remote="130382136000000000" Dst="1" />
+<file name="ReferenceHelper.php" server="10.105.59.73" local="131022063253019924" remote="130737240000000000" Dst="1" />
+<file name="RichText.php" server="10.105.59.73" local="131022063253859972" remote="130382136000000000" Dst="1" />
+<file name="Settings.php" server="10.105.59.73" local="131022063253919976" remote="130382136000000000" Dst="1" />
+<file name="Style.php" server="10.105.59.73" local="131022063299052557" remote="130382136000000000" Dst="1" />
+<file name="WorksheetIterator.php" server="10.105.59.73" local="131022063302202737" remote="130382136000000000" Dst="1" />
+<file name="Worksheet.php" server="10.105.59.73" local="131022063302832773" remote="130737240000000000" Dst="1" />
+</dwsync>

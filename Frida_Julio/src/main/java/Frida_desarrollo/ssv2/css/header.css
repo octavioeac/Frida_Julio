@@ -1,0 +1,41 @@
+/* 
+    Document   : header
+    Created on : 1/07/2013, 06:49:24 PM
+    Author     : HP435
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#header{
+    background: #fff url("../img/header1.jpg") no-repeat scroll top right;
+    height: 110px;
+    width:716px;
+    margin: 0px auto;
+    text-align:left;
+}
+#header1{
+    background: #fff url("../img/header1.jpg") no-repeat scroll top right;
+    height: 138px;
+    width:1000px;
+    margin: 0px auto;
+    text-align:left;
+}
+#header h1,#header1 h1{
+    padding:10px 0 0;
+    margin:0;
+}
+#header h1 a, #header1 h1 a{
+    color: #FFFFFF;
+    font-weight: 100;
+    letter-spacing: -2px;
+    text-decoration: none;
+    padding:0 0 0 5%;
+}
+
+#header h2,#header1 h2 {
+    color: #E1C70E;
+    font-size: 19px;
+    font-weight: 100;
+    letter-spacing: -1px;
+    padding:0 0 0 5%;
+    margin:5px 0 0;
+}

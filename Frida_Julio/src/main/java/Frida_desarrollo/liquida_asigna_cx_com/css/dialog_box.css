@@ -1,0 +1,63 @@
+.dialogStyle .ui-dialog { 
+                          padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+						  font-size: 62.5%;
+                         /* color:#E0E0E0;*/
+                        }
+.dialogStyle .ui-widget-header {
+          /*  border: 1px solid #383838 {borderColorHeader}*/;
+             background: #B0B0B0;  /*{bgColorHeader}*/
+          repeat-x ;/*{bgHeaderRepeat}*/
+           color: #E0E0E0 /*{fcHeader}*/;
+          font-weight: bold;
+}						
+  .dialogStyle .ui-button-text-only{
+	font-size:12px;  
+	color:#000066;  
+	font-family:Verdana,Arial,Helvetica,sans-serif;  font-weight:bold;
+	  }
+   .dialogStyle .ui-dialog-titlebar-close{
+       visibility: hidden;
+		 /*  color:#000066; */
+    }
+        .dialogStyle .ui-widget {
+			/*  border: #052375; */
+			padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+
+}
+.dialogStyle .ui-dialog-buttonpane{
+		background:#CCC; 
+		padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+	}
+	
+.dialogStyle .ui-dialog-buttonset{
+	background:#CCC; 
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+	}	
+.dialogStyle .ui-widget-content {
+  border: 1px solid #333333;
+  color: #333333;
+  padding-bottom:0px;
+	padding-top:0px;
+	background:#CCC;
+}
+
+.dialogStyle .ui-widget-overlay {
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+    
+	
+	}

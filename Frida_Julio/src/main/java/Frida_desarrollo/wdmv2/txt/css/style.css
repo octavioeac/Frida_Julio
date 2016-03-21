@@ -1,0 +1,11 @@
+/* 
+    Created on : 6/05/2015, 05:56:00 PM
+    Author     : HP435
+*/
+.header{width:897px;}
+.erase{
+    height:13px;
+    background:transparent url('../img/erase.png') center no-repeat
+}
+.tarjetas > *{cursor:pointer}
+.yellow{background-color:#ffc}

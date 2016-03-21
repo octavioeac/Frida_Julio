@@ -1,0 +1,36 @@
+/* 
+    Document   : datepicker
+    Created on : 12/08/2013, 04:37:26 PM
+    Author     : HP435
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#ui-datepicker-div{
+                border:1px #ddd solid;
+                background:#F2F5F7 url("css/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png") repeat-x scroll 50% top;
+            }
+            .ui-datepicker-header{
+                background: url("images/ui-bg_highlight-soft_100_deedf7_1x100.png") repeat-x scroll 50% 50% #DEEDF7;
+                border: 1px solid #AED0EA;
+                color: #222222;
+                font-weight: bold;
+            }
+            .ui-datepicker .ui-datepicker-prev{
+                background:transparent url('css/cupertino/images/ui-icons_72a7cf_256x240.png') -79px -192px no-repeat;
+                height: 16px;
+                margin: 8px 0 0;
+                width: 16px;
+            }
+            .ui-datepicker .ui-datepicker-next{
+                height: 16px;
+                width: 16px;
+                margin: 8px 0 0;
+                background:transparent url('css/cupertino/images/ui-icons_72a7cf_256x240.png') -48px -192px no-repeat;
+            }
+            .ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight{
+                background: url("css/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png") repeat-x scroll 50% top #FFEF8F;
+                border: 1px solid #F9DD34;
+                color: #363636;
+            }
+            .ui-dialog .ui-dialog-titlebar-close{background-color:transparent;background-image:url('../img/close.png');background-position:0 0;background-repeat:no-repeat;border:none;width:16px;height:16px}
+            

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="achivo_carga_referencia_combo.php" server="frida2" local="130453325717249695" remote="130453325400000000" Dst="2" />
+<file name="actualiza_nulo_tipo_trayecto.php" server="frida2" local="130453334070457471" remote="130453336800000000" Dst="2" />
+<file name="smtp.php" server="frida2" local="129798036000000000" remote="130453311600000000" Dst="2" />
+<file name="nomad_mimemail.inc.php" server="frida2" local="130276692000000000" remote="130453311600000000" Dst="2" />
+<file name="carga_archvos_principal_prov.php" server="frida2" local="130457062134305535" remote="130457061600000000" Dst="2" />
+<file name="alta_construccion_fo_prov2.php" server="frida2" local="130453348254828770" remote="130453348200000000" Dst="2" />
+<file name="autocompletar_email.php" server="frida2" local="130453376081980392" remote="130453375800000000" Dst="2" />
+<file name="borrarArchivoServer.php" server="frida2" local="130453336501996547" remote="130453336800000000" Dst="2" />
+<file name="borrar_archivos_referencia_sisa_fo_prov.php" server="frida2" local="130456866422281447" remote="130456866000000000" Dst="2" />
+<file name="cargarArchivos.php" server="frida2" local="130453334527163593" remote="130453336800000000" Dst="2" />
+<file name="cargar_archivos_ref_sisa_prov.php" server="frida2" local="130456747659498604" remote="130456747200000000" Dst="2" />
+<file name="carga_archivos.php" server="frida2" local="129678840000000000" remote="130453311600000000" Dst="2" />
+<file name="Carga_ServidorPhp.php" server="frida2" local="130453336842696034" remote="130453336800000000" Dst="2" />
+<file name="inclu_trayectorias2.php" server="frida2" local="130453358944140164" remote="130453359000000000" Dst="2" />
+<file name="inclu_trayectoriasQuerys2.php" server="frida2" local="130453322196758334" remote="130453321800000000" Dst="2" />
+<file name="requerido_alata_constru_fo_pro.php" server="frida2" local="130453330951169058" remote="130453330800000000" Dst="2" />
+<file name="requerido_alta_planifica_contru_fo_pro.php" server="frida2" local="130453321476107115" remote="130453321200000000" Dst="2" />
+<file name="tabla_archivos_referencia_sisa_fo_prov.php" server="frida2" local="130457074297351221" remote="130457074200000000" Dst="2" />
+<file name="tabla_carga_archivos_fo_prov.php" server="frida2" local="130456872760323962" remote="130456872600000000" Dst="2" />
+<file name="conexion.php" server="frida2" local="130374324000000000" remote="130456789200000000" Dst="2" />
+<file name="carga_archvos_principal_prov.php" server="10.105.59.73" local="130457062134305535" remote="130483627800000000" Dst="2" />
+<file name="autocompletar_email.php" server="10.105.59.73" local="130453376081980392" remote="130452084000000000" Dst="2" />
+<file name="Carga_ServidorPhp.php" server="10.105.59.73" local="130483802438520704" remote="130483802400000000" Dst="2" />
+<file name="cargar_archivos_ref_sisa_prov.php" server="10.105.59.73" local="130483877021806624" remote="130483894200000000" Dst="2" />
+<file name="tabla_carga_archivos_fo_prov.php" server="10.105.59.73" local="130489069257234867" remote="130489068600000000" Dst="2" />
+<file name="tabla_archivos_referencia_sisa_fo_prov.php" server="10.105.59.73" local="130483880553478624" remote="130483894200000000" Dst="2" />
+<file name="achivo_carga_referencia_combo.php" server="10.105.59.73" local="130453325717249695" remote="130483894200000000" Dst="2" />
+<file name="actualiza_nulo_tipo_trayecto.php" server="10.105.59.73" local="130483874897985148" remote="130483894200000000" Dst="2" />
+<file name="alta_construccion_fo_prov2.php" server="10.105.59.73" local="130453348254828770" remote="130483894200000000" Dst="2" />
+<file name="borrarArchivoServer.php" server="10.105.59.73" local="130453336501996547" remote="130483894200000000" Dst="2" />
+<file name="cargarArchivos.php" server="10.105.59.73" local="130453334527163593" remote="130483894200000000" Dst="2" />
+<file name="borrar_archivos_referencia_sisa_fo_prov.php" server="10.105.59.73" local="130456866422281447" remote="130483894200000000" Dst="2" />
+<file name="carga_archivos.php" server="10.105.59.73" local="130483875658038621" remote="130483894200000000" Dst="2" />
+<file name="conexion.php" server="10.105.59.73" local="130374324000000000" remote="130483894200000000" Dst="2" />
+<file name="inclu_trayectoriasQuerys2.php" server="10.105.59.73" local="130483880153035720" remote="130483894200000000" Dst="2" />
+<file name="inclu_trayectorias2.php" server="10.105.59.73" local="130494070108189421" remote="130494069600000000" Dst="2" />
+<file name="nomad_mimemail.inc.php" server="10.105.59.73" local="130276692000000000" remote="130483894200000000" Dst="2" />
+<file name="requerido_alta_planifica_contru_fo_pro.php" server="10.105.59.73" local="130453321476107115" remote="130483894200000000" Dst="2" />
+<file name="requerido_alata_constru_fo_pro.php" server="10.105.59.73" local="130453330951169058" remote="130483894200000000" Dst="2" />
+<file name="smtp.php" server="10.105.59.73" local="129798036000000000" remote="130483894200000000" Dst="2" />
+<file name="busqueda_archvoDao.php" server="10.105.59.73" local="130488732864992312" remote="130488732600000000" Dst="2" />
+<file name="Query_impl.php" server="10.105.59.73" local="130488231981766232" remote="130488231600000000" Dst="2" />
+<file name="imports.php" server="10.105.59.73" local="130488874027586351" remote="130488873600000000" Dst="2" />
+<file name="Envia_MAil_terminado.php" server="10.105.59.73" local="130492504585228461" remote="130492504200000000" Dst="2" />
+<file name="Query_update_terminar_Imp.php" server="10.105.59.73" local="130489892809825417" remote="130489892400000000" Dst="2" />
+<file name="DAO_actualiza_terminar.php" server="10.105.59.73" local="130489902748933902" remote="130489902600000000" Dst="2" />
+<file name="imports_update_terminar.php" server="10.105.59.73" local="130489899842227648" remote="130489902600000000" Dst="2" />
+<file name="Dao_busqueda_terminado_and.php" server="10.105.59.73" local="130492412382684777" remote="130492412400000000" Dst="2" />
+<file name="Query_impl_busqueda_terminado_and.php" server="10.105.59.73" local="130489958270809571" remote="130489957800000000" Dst="2" />
+<file name="imports_terminado_and.php" server="10.105.59.73" local="130489979344134897" remote="130489978800000000" Dst="2" />
+<file name="Query_impl _Tipo_Trayectoria.php" server="10.105.59.73" local="130492485281564354" remote="130492485000000000" Dst="2" />
+<file name="Dao_tipo_trayectoria_selec.php" server="10.105.59.73" local="130492527858439612" remote="130493122800000000" Dst="2" />
+<file name="Query_update_repisa_update_Imp.php" server="10.105.59.73" local="130493997432132589" remote="130493997000000000" Dst="2" />
+<file name="DAO_actualiza__ladaEnlaces.php" server="10.105.59.73" local="130494147366034289" remote="130494147000000000" Dst="2" />
+</dwsync>

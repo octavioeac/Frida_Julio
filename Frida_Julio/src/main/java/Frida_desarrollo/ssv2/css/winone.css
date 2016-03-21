@@ -1,0 +1,369 @@
+/* 
+    Document   : winone
+    Created on : 30/05/2013, 10:08:03 AM
+    Author     : HP435
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body{
+    margin:0;
+    padding:0;
+    text-align:center;
+    font-family:Verdana;
+}
+#container{
+    width:690px;
+    padding:10px;
+    margin:10px auto;
+    text-align:center;
+    background:#cae4ff;
+    border:3px #999 solid;
+}
+#container form{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:auto;
+}
+#container form fieldset{
+    border:none;
+    padding:10px 0px;
+    margin-bottom:10px;
+}
+#container form fieldset#infgen{
+    border:none;
+    padding:10px 5px 10px 0px;
+    margin-bottom:5px;
+}
+#container form #ctcnt{
+    width:694px;
+    height:80px;
+    margin:0 0 10px -2px;
+}
+#container form #ctcnt fieldset.contact{
+    width:48.8%;
+    float:left;
+    margin:0 0 0 5px;
+}
+#container form #ctcnt fieldset.contact input{
+    margin:0px 0 0px 90px;
+}
+#container form fieldset legend,h3{
+    color:#006;
+    font-weight:bold;
+    text-align:left;
+    font-size:12px;
+}
+#container form fieldset label,#container form fieldset select,#container form fieldset input{
+    display:block;
+    float:left;
+    margin:2px 0;
+}
+#container form fieldset label{
+    width: 100px;
+    font-size:11px;
+    font-weight:normal;
+    text-align:left;
+    width:70px;
+    margin-left:10px;
+}
+#container form fieldset label.central{
+    width: 100px;
+    font-size:11px;
+    font-weight:normal;
+    text-align:left;
+    width:51px;
+    margin-left:8px;
+    margin-top:5px;
+}
+#container form fieldset label.large{
+    width:166px;
+    margin-left:17px;
+}
+#container form fieldset select#area{
+    width:196px;
+    margin-left:-30px;
+}
+#container form fieldset select#central{
+    width:350px;
+}
+#container form fieldset select#central option{
+    width:353px;
+}
+.des{
+    border:1px #a5acb2 solid;
+    background:#ebebe4;
+    color:#000;
+}
+.modelos{
+    display: block;
+    float: left;
+    margin: 0 10px 0 0;
+    width:496px;
+}
+.modelos select{
+    width:150px;
+}
+#container form #enviar{
+    margin:0 0 0 530px;
+/*    background:#1EB0D9;
+    border:1px #006FB6 solid;
+    font-weight:bold;
+    color:#fff;
+    font-size:16pt;*/
+}
+#container form fieldset select#rubro,#container form fieldset select#tecnologia{
+    width:140px;
+}
+#campos{
+    float:left;
+    width:672px;
+    height: auto;
+    text-align:left;
+}
+#camposPedido{
+    float:left;
+    width:672px;
+    height: auto;
+    text-align:left;
+}
+#agregar{
+    float:left;
+    margin:4px 0 4px 10px;
+/*    background:#1EB0D9;
+    text-align:left;
+    cursor:pointer;
+    padding:3px 6px;
+    color:#fff;*/
+}
+#campos ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+    width:548px;
+}
+#campos ul li{
+    float:left;
+    width:600px;
+    margin:0;
+}
+#camposPedido ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+    width:548px;
+}
+#camposPedido ul li{
+    float:left;
+    width:600px;
+    margin:0;
+}
+.close{
+    /*padding:1px 5px;*/
+    width:20px;
+    height:20px;
+    color:#fff;
+    font-weight:bold;
+    text-align:center;
+    cursor:pointer;
+    background: transparent url('../img/erase.png') top left no-repeat;
+    margin:5px 0 0 560px;
+}
+#campos ul li label{
+    float: left;
+    margin-top:6px;
+}
+#camposPedido ul li label{
+    float: left;
+    margin-top:6px;
+}
+#equipos{
+    margin:20px 0 0;
+}
+#container form fieldset#tss label{
+    width:240px;
+    margin:10px 10px 0;
+}
+#container form fieldset#tss input{
+    margin:10px 10px 0;
+}
+#lugar{width:95%}
+.contactos{
+    width:690px;
+    height:140px;
+    float:left;
+    margin:0 0 20px;
+}
+.contactos fieldset{
+    margin:0 4px;
+    padding:0;
+    width:222px;
+    float:left;
+    height:100%;
+}
+.contactos fieldset .row{
+    display:block;
+    height:30px;
+    width:100%;
+    float:left;
+}
+.contactos fieldset .row label{
+    float:left;
+    margin-top:6px;
+}
+.contactos fieldset .row .text{
+    width:130px;
+    float:left;
+}
+.x{font-weight:bold;color:#f00}
+ul.contc{
+    width:690px;
+    height:100px;
+    margin:0;
+    padding:0;
+    list-style:none
+}
+ul.contc li{
+    width:20%;
+    height:22px;
+    float:left;
+    font-size:11px;
+    margin:0 0 10px;
+}
+ul.contc li.b{font-weight:bold}
+ul.contc li input{
+    width:90%;
+    margin:0 0 0 5%;
+    float:left;
+}
+ul.contc li select{
+    width:90%;
+    margin:0 0 0 5%;
+    float:left;
+}
+/*  SEPARADOR DE TIPOS DE SITE SURVEY PARA ACCESO   */
+fieldset.nu{
+    float:left;
+    width:686px;
+    height:auto;
+    background:#e9e9e9;
+    border:2px #999 solid !important;
+    box-sizing:border-box;
+    padding:10px !important;
+}
+fieldset.nu legend{margin:0 0 0 10px}
+fieldset.nu .one{
+    float:left;
+    width:100%;
+    height:20px;
+    box-sizing:border-box;
+    padding:0 0 0 14px;
+    display:block;
+    margin:5px 0;
+}
+fieldset.nu .one label.hnd{
+    width:100% !important;
+}
+fieldset.nu .two{
+    float:left;
+    width:50%;
+    height:20px;
+    box-sizing:border-box;
+    padding:0 0 0 14px;
+    display:block;
+    margin:5px 0;
+}
+fieldset.nu .two label{
+    float:left !important;
+    width:50% !important;
+    padding:0 50px 0 0 !important;
+    margin:0 !important;
+    box-sizing:border-box;
+}
+fieldset.nu .two select{
+    float:left !important;
+    width:45% !important;
+}
+
+fieldset.nu ul{
+    margin:30px 0 10px;
+    padding:0;
+    width:100%;
+    list-style:none;
+    height:auto;
+    float:left;
+}
+fieldset.nu ul li{
+    float:left;
+    margin:0;
+    padding:0;
+    width:16.66%;
+    height:20px;
+    background:#ccc;
+    color:#000;
+    font-size:10px;
+    border-color:#ece9d8 #aca899 #ece9d8 #ffffff;
+    border-width:2px 1px 1px;
+    border-style:solid;
+    box-sizing:border-box;
+}
+fieldset.nu ul li input{
+    margin:0;
+    padding:0;
+    border:none;
+    width:100%;
+    height:100%;
+    font-size:10px;
+    color:#000
+}
+/*#equipos ul li input.ub{
+    text-transform:uppercase;
+    width:88%;
+}
+#equipos ul li .help{
+    width:12%;
+    height:100%;
+    float:right;
+    background:transparent url('../img/help.png') center no-repeat;
+}*/
+fieldset.nu ul li select{
+    margin:0 !important;
+    padding:0;
+    width:100%;
+}
+fieldset.nu ul li.zero{
+    height:22px;
+    padding:2px 0 0 ;
+    font-weight:bold;
+}
+/*#equipos ul li.blui,#equipos ul li.blux,#equipos ul li.whti,#equipos ul li.whtx{
+    border-color:#bfcacd #bfcacd #bfcacd #fff;border-style:solid solid none;border-width:1px
+}*/
+fieldset.nu ul li.whti,fieldset.nu ul li.whti input{background:#fff}
+fieldset.nu ul li.whtx,fieldset.nu ul li.whtx input{background:#e9eff2}
+fieldset.nu ul li.blui,fieldset.nu ul li.blui input{background:#cce5ff;border-top:none;border-bottom:none}
+fieldset.nu ul li.blux,fieldset.nu ul li.blux input{background:#9cf;border-top:none;border-bottom:none}
+fieldset.nu ul li.yeli,fieldset.nu ul li.yeli input{background:#ffc;border-top:none;border-bottom:none}
+fieldset.nu ul li.yelx,fieldset.nu ul li.yelx input{background:#ff9;border-top:none;border-bottom:none}
+fieldset.nu .nuevo,fieldset.nu .quitar{
+    cursor:pointer;
+    width:100px;
+    background:#fff url('../img/add.png') top right no-repeat;
+    height:15px;
+    float:right;
+    font-size:10px;
+    font-weight:bold;
+    border:1px #bfcacd solid;
+}
+fieldset.nu .quitar{
+    background:#fff url('../img/erase.png') top right no-repeat;
+    text-align:left;
+    padding:0 0 0 4px;
+    width:112px
+}
+.my{width:210px !important}
+.mn{width:60px !important}
+/*#equipos ul li.t,#equipos ul.ex li.t,#equipos ul.tp li.t{
+    width:684px;background:#9f9;font-weight:bold;font-size:12px;
+}
+.upper{text-transform:uppercase}*/

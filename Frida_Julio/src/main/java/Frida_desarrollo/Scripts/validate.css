@@ -1,0 +1,3 @@
+    .validation-passed { border-color: blue; } /* campo valido */
+    .validation-failed { border-color: red; } /* campo invalido */
+    .validation-advice { color: #C00; font-size: 10px; } /* mensaje de error */

@@ -1,0 +1,16 @@
+{
+    "estadoGeneral":{
+        "tipo_trabajo": "Ampliación",
+        "eg_tt_comt": "Comentario de prueba",
+        "tipo_central": "Gabinete Outdoor",
+        "espacio": "Requiere Desmontaje",
+        "tipo_piso": "Plataforma",
+        "obra_civil" : "Sala Nueva"
+        
+    },
+    "opticoAltoOrden":{
+        "exbf": "Ampliacion",
+        "marca": "Gabinete",
+        "tpbf": "Nuevo"        
+    }
+}

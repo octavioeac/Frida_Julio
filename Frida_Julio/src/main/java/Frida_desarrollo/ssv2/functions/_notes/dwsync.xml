@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="addesc.php" server="10.105.59.73" local="131022062413081882" remote="130718232000000000" Dst="1" />
+<file name="AjaxLauncher.php" server="10.105.59.73" local="131022062415902044" remote="131013519000000000" Dst="1" />
+<file name="AjaxLauncher_20150310.php" server="10.105.59.73" local="131022062416382071" remote="130704408000000000" Dst="1" />
+<file name="area.php" server="10.105.59.73" local="131022062416392072" remote="130147992000000000" Dst="1" />
+<file name="bitacora.php" server="10.105.59.73" local="131022062416552081" remote="130718232000000000" Dst="1" />
+<file name="borrarmp.php" server="10.105.59.73" local="131022062416722091" remote="130858200000000000" Dst="1" />
+<file name="borrar_equipo.php" server="10.105.59.73" local="131022062416982106" remote="130719096000000000" Dst="1" />
+<file name="borrar_ss.php" server="10.105.59.73" local="131022062417062110" remote="130861656000000000" Dst="1" />
+<file name="central.php" server="10.105.59.73" local="131022062417312124" remote="130554072000000000" Dst="1" />
+<file name="conexion.php" server="10.105.59.73" local="131022062417582140" remote="131003081400000000" Dst="1" />
+<file name="dfo.php" server="10.105.59.73" local="131022062417782151" remote="130135896000000000" Dst="1" />
+<file name="dsitio.php" server="10.105.59.73" local="131022062418032166" remote="130555800000000000" Dst="1" />
+<file name="eliminar.php" server="10.105.59.73" local="131022062418192175" remote="130698360000000000" Dst="1" />
+<file name="equiposMultipar.php" server="10.105.59.73" local="131022062418352184" remote="130544568000000000" Dst="1" />
+<file name="funcion_alta_clli_infocentro.php" server="10.105.59.73" local="131022062420592312" remote="130694040000000000" Dst="1" />
+<file name="funcion_nombre_oficial_acceso.php" server="10.105.59.73" local="131022062421592369" remote="130573080000000000" Dst="1" />
+<file name="genJSON.php" server="10.105.59.73" local="131022062422012393" remote="130718232000000000" Dst="1" />
+<file name="getLastId.php" server="10.105.59.73" local="131022062422082397" remote="130713048000000000" Dst="1" />
+<file name="guarda.php" server="10.105.59.73" local="131022062422482420" remote="131016102000000000" Dst="1" />
+<file name="habilitada.php" server="10.105.59.73" local="131022062422562425" remote="130530744000000000" Dst="1" />
+<file name="historicoBitacora.php" server="10.105.59.73" local="131022062422692432" remote="130718232000000000" Dst="1" />
+<file name="lastPDF.php" server="10.105.59.73" local="131022062423852499" remote="130703544000000000" Dst="1" />
+<file name="interconexiones.php" server="10.105.59.73" local="131022062424212519" remote="131009245800000000" Dst="1" />
+<file name="mdlbyfl.php" server="10.105.59.73" local="131022062425002564" remote="130721688000000000" Dst="1" />
+<file name="mergePDF.php" server="10.105.59.73" local="131022062425412588" remote="130715640000000000" Dst="1" />
+<file name="modelos.php" server="10.105.59.73" local="131022062425632600" remote="130156632000000000" Dst="1" />
+<file name="motivo.php" server="10.105.59.73" local="131022062425872614" remote="130694040000000000" Dst="1" />
+<file name="puerto_max_repisa.php" server="10.105.59.73" local="131022062426272637" remote="130716504000000000" Dst="1" />
+<file name="nomad_mimemail.inc.php" server="10.105.59.73" local="131022062426292638" remote="128714616000000000" Dst="1" />
+<file name="rechazo.php" server="10.105.59.73" local="131022062429202805" remote="130210200000000000" Dst="1" />
+<file name="saver.php" server="10.105.59.73" local="131022062430362871" remote="131014186200000000" Dst="1" />
+<file name="saver_20140819.php" server="10.105.59.73" local="131022062430722891" remote="130528152000000000" Dst="1" />
+<file name="sfolio.php" server="10.105.59.73" local="131022062430762894" remote="130204152000000000" Dst="1" />
+<file name="tecnologia.php" server="10.105.59.73" local="131022062430772894" remote="130150584000000000" Dst="1" />
+<file name="temp.php" server="10.105.59.73" local="131022062431012908" remote="130154040000000000" Dst="1" />
+<file name="tildeReplace.php" server="10.105.59.73" local="131022062431932961" remote="130764888000000000" Dst="1" />
+<file name="tipofolio.php" server="10.105.59.73" local="131022062432122972" remote="130204152000000000" Dst="1" />
+<file name="upload.php" server="10.105.59.73" local="131022062432482992" remote="130718232000000000" Dst="1" />
+<file name="VerCanaletas.php" server="10.105.59.73" local="131022062432492993" remote="130693176000000000" Dst="1" />
+</dwsync>

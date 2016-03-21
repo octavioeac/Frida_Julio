@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="frida2" local="130414503071751574" remote="130453336800000000" Dst="2" />
+<file name="changelog.md" server="frida2" local="130414503077271889" remote="130453337400000000" Dst="2" />
+<file name=".scrutinizer.yml" server="frida2" local="130414503072491616" remote="130453336800000000" Dst="2" />
+<file name=".travis.yml" server="frida2" local="130414503072991644" remote="130453336800000000" Dst="2" />
+<file name="PHPMailerAutoload.php" server="frida2" local="130414503074191713" remote="130453336800000000" Dst="2" />
+<file name="class.smtp.php" server="frida2" local="130414503082332179" remote="130453337400000000" Dst="2" />
+<file name="class.phpmailer.php" server="frida2" local="130414503079982044" remote="130453336800000000" Dst="2" />
+<file name="class.pop3.php" server="frida2" local="130414503080932099" remote="130453337400000000" Dst="2" />
+<file name="composer.json" server="frida2" local="130414503083642254" remote="130453337400000000" Dst="2" />
+<file name="LICENSE" server="frida2" local="130414503073511674" remote="130453345800000000" Dst="2" />
+<file name="README.md" server="frida2" local="130414503075511789" remote="130453345800000000" Dst="2" />
+<file name="travis.phpunit.xml.dist" server="frida2" local="130414503084162283" remote="130453345800000000" Dst="2" />
+<file name="PHPMailerAutoload.php" server="10.105.59.73" local="130414503074191713" remote="130483894200000000" Dst="2" />
+<file name="class.phpmailer.php" server="10.105.59.73" local="130414503079982044" remote="130483894200000000" Dst="2" />
+<file name=".travis.yml" server="10.105.59.73" local="130414503072991644" remote="130483894200000000" Dst="2" />
+<file name=".gitignore" server="10.105.59.73" local="130414503071751574" remote="130483894200000000" Dst="2" />
+<file name=".scrutinizer.yml" server="10.105.59.73" local="130414503072491616" remote="130483894200000000" Dst="2" />
+<file name="changelog.md" server="10.105.59.73" local="130414503077271889" remote="130483894200000000" Dst="2" />
+<file name="class.pop3.php" server="10.105.59.73" local="130414503080932099" remote="130483894200000000" Dst="2" />
+<file name="composer.json" server="10.105.59.73" local="130414503083642254" remote="130483894200000000" Dst="2" />
+<file name="class.smtp.php" server="10.105.59.73" local="130414503082332179" remote="130483894200000000" Dst="2" />
+<file name="LICENSE" server="10.105.59.73" local="130414503073511674" remote="130483894200000000" Dst="2" />
+<file name="README.md" server="10.105.59.73" local="130414503075511789" remote="130483894200000000" Dst="2" />
+<file name="travis.phpunit.xml.dist" server="10.105.59.73" local="130414503084162283" remote="130483894200000000" Dst="2" />
+</dwsync>
